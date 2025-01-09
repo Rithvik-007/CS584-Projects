@@ -1,0 +1,2346 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "packaging",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "D:\\Conda\\pkgs\\qtpy-2.4.1-py38haa95532_0",
+  "files": [
+    "Lib/site-packages/QtPy-2.4.1.dist-info/AUTHORS.md",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/INSTALLER",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/METADATA",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/RECORD",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/REQUESTED",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/WHEEL",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/direct_url.json",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/entry_points.txt",
+    "Lib/site-packages/QtPy-2.4.1.dist-info/top_level.txt",
+    "Lib/site-packages/qtpy/Qsci.py",
+    "Lib/site-packages/qtpy/Qt3DAnimation.py",
+    "Lib/site-packages/qtpy/Qt3DCore.py",
+    "Lib/site-packages/qtpy/Qt3DExtras.py",
+    "Lib/site-packages/qtpy/Qt3DInput.py",
+    "Lib/site-packages/qtpy/Qt3DLogic.py",
+    "Lib/site-packages/qtpy/Qt3DRender.py",
+    "Lib/site-packages/qtpy/QtAxContainer.py",
+    "Lib/site-packages/qtpy/QtBluetooth.py",
+    "Lib/site-packages/qtpy/QtCharts.py",
+    "Lib/site-packages/qtpy/QtConcurrent.py",
+    "Lib/site-packages/qtpy/QtCore.py",
+    "Lib/site-packages/qtpy/QtDBus.py",
+    "Lib/site-packages/qtpy/QtDataVisualization.py",
+    "Lib/site-packages/qtpy/QtDesigner.py",
+    "Lib/site-packages/qtpy/QtGui.py",
+    "Lib/site-packages/qtpy/QtHelp.py",
+    "Lib/site-packages/qtpy/QtLocation.py",
+    "Lib/site-packages/qtpy/QtMacExtras.py",
+    "Lib/site-packages/qtpy/QtMultimedia.py",
+    "Lib/site-packages/qtpy/QtMultimediaWidgets.py",
+    "Lib/site-packages/qtpy/QtNetwork.py",
+    "Lib/site-packages/qtpy/QtNetworkAuth.py",
+    "Lib/site-packages/qtpy/QtNfc.py",
+    "Lib/site-packages/qtpy/QtOpenGL.py",
+    "Lib/site-packages/qtpy/QtOpenGLWidgets.py",
+    "Lib/site-packages/qtpy/QtPdf.py",
+    "Lib/site-packages/qtpy/QtPdfWidgets.py",
+    "Lib/site-packages/qtpy/QtPositioning.py",
+    "Lib/site-packages/qtpy/QtPrintSupport.py",
+    "Lib/site-packages/qtpy/QtPurchasing.py",
+    "Lib/site-packages/qtpy/QtQml.py",
+    "Lib/site-packages/qtpy/QtQuick.py",
+    "Lib/site-packages/qtpy/QtQuick3D.py",
+    "Lib/site-packages/qtpy/QtQuickControls2.py",
+    "Lib/site-packages/qtpy/QtQuickWidgets.py",
+    "Lib/site-packages/qtpy/QtRemoteObjects.py",
+    "Lib/site-packages/qtpy/QtScxml.py",
+    "Lib/site-packages/qtpy/QtSensors.py",
+    "Lib/site-packages/qtpy/QtSerialPort.py",
+    "Lib/site-packages/qtpy/QtSql.py",
+    "Lib/site-packages/qtpy/QtStateMachine.py",
+    "Lib/site-packages/qtpy/QtSvg.py",
+    "Lib/site-packages/qtpy/QtSvgWidgets.py",
+    "Lib/site-packages/qtpy/QtTest.py",
+    "Lib/site-packages/qtpy/QtTextToSpeech.py",
+    "Lib/site-packages/qtpy/QtUiTools.py",
+    "Lib/site-packages/qtpy/QtWebChannel.py",
+    "Lib/site-packages/qtpy/QtWebEngine.py",
+    "Lib/site-packages/qtpy/QtWebEngineCore.py",
+    "Lib/site-packages/qtpy/QtWebEngineQuick.py",
+    "Lib/site-packages/qtpy/QtWebEngineWidgets.py",
+    "Lib/site-packages/qtpy/QtWebSockets.py",
+    "Lib/site-packages/qtpy/QtWidgets.py",
+    "Lib/site-packages/qtpy/QtWinExtras.py",
+    "Lib/site-packages/qtpy/QtX11Extras.py",
+    "Lib/site-packages/qtpy/QtXml.py",
+    "Lib/site-packages/qtpy/QtXmlPatterns.py",
+    "Lib/site-packages/qtpy/__init__.py",
+    "Lib/site-packages/qtpy/__main__.py",
+    "Lib/site-packages/qtpy/__pycache__/Qsci.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DAnimation.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DCore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DExtras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DInput.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DLogic.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/Qt3DRender.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtAxContainer.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtBluetooth.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtCharts.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtConcurrent.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtCore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtDBus.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtDataVisualization.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtDesigner.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtGui.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtHelp.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtLocation.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtMacExtras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtMultimedia.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtMultimediaWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtNetwork.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtNetworkAuth.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtNfc.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtOpenGL.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtOpenGLWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtPdf.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtPdfWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtPositioning.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtPrintSupport.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtPurchasing.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtQml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtQuick.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtQuick3D.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtQuickControls2.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtQuickWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtRemoteObjects.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtScxml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtSensors.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtSerialPort.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtSql.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtStateMachine.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtSvg.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtSvgWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtTest.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtTextToSpeech.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtUiTools.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebChannel.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebEngine.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebEngineCore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebEngineQuick.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebEngineWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWebSockets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtWinExtras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtX11Extras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtXml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/QtXmlPatterns.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/_utils.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/cli.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/compat.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/enums_compat.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/shiboken.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/sip.cpython-38.pyc",
+    "Lib/site-packages/qtpy/__pycache__/uic.cpython-38.pyc",
+    "Lib/site-packages/qtpy/_utils.py",
+    "Lib/site-packages/qtpy/cli.py",
+    "Lib/site-packages/qtpy/compat.py",
+    "Lib/site-packages/qtpy/enums_compat.py",
+    "Lib/site-packages/qtpy/py.typed",
+    "Lib/site-packages/qtpy/shiboken.py",
+    "Lib/site-packages/qtpy/sip.py",
+    "Lib/site-packages/qtpy/tests/__init__.py",
+    "Lib/site-packages/qtpy/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/conftest.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_cli.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_compat.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_macos_checks.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_main.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_missing_optional_deps.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qdesktopservice_split.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qsci.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3danimation.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dcore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dextras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dinput.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dlogic.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qt3drender.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtaxcontainer.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtbluetooth.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtcharts.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtconcurrent.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtcore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtdatavisualization.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtdbus.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtdesigner.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtgui.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qthelp.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtlocation.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtmacextras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtmultimedia.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtmultimediawidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtnetwork.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtnetworkauth.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtopengl.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtopenglwidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtpdf.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtpdfwidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtpositioning.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtprintsupport.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtpurchasing.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtqml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtquick.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtquick3d.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtquickcontrols2.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtquickwidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtremoteobjects.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtscxml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtsensors.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtserialport.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtsql.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtstatemachine.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtsvg.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtsvgwidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qttest.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qttexttospeech.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtuitools.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebchannel.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginecore.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginequick.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginewidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebsockets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwidgets.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtwinextras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtx11extras.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtxml.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_qtxmlpatterns.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_shiboken.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_sip.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/test_uic.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/conftest.py",
+    "Lib/site-packages/qtpy/tests/optional_deps/__init__.py",
+    "Lib/site-packages/qtpy/tests/optional_deps/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/optional_deps/__pycache__/optional_dep.cpython-38.pyc",
+    "Lib/site-packages/qtpy/tests/optional_deps/optional_dep.py",
+    "Lib/site-packages/qtpy/tests/test.ui",
+    "Lib/site-packages/qtpy/tests/test_cli.py",
+    "Lib/site-packages/qtpy/tests/test_compat.py",
+    "Lib/site-packages/qtpy/tests/test_custom.ui",
+    "Lib/site-packages/qtpy/tests/test_macos_checks.py",
+    "Lib/site-packages/qtpy/tests/test_main.py",
+    "Lib/site-packages/qtpy/tests/test_missing_optional_deps.py",
+    "Lib/site-packages/qtpy/tests/test_qdesktopservice_split.py",
+    "Lib/site-packages/qtpy/tests/test_qsci.py",
+    "Lib/site-packages/qtpy/tests/test_qt3danimation.py",
+    "Lib/site-packages/qtpy/tests/test_qt3dcore.py",
+    "Lib/site-packages/qtpy/tests/test_qt3dextras.py",
+    "Lib/site-packages/qtpy/tests/test_qt3dinput.py",
+    "Lib/site-packages/qtpy/tests/test_qt3dlogic.py",
+    "Lib/site-packages/qtpy/tests/test_qt3drender.py",
+    "Lib/site-packages/qtpy/tests/test_qtaxcontainer.py",
+    "Lib/site-packages/qtpy/tests/test_qtbluetooth.py",
+    "Lib/site-packages/qtpy/tests/test_qtcharts.py",
+    "Lib/site-packages/qtpy/tests/test_qtconcurrent.py",
+    "Lib/site-packages/qtpy/tests/test_qtcore.py",
+    "Lib/site-packages/qtpy/tests/test_qtdatavisualization.py",
+    "Lib/site-packages/qtpy/tests/test_qtdbus.py",
+    "Lib/site-packages/qtpy/tests/test_qtdesigner.py",
+    "Lib/site-packages/qtpy/tests/test_qtgui.py",
+    "Lib/site-packages/qtpy/tests/test_qthelp.py",
+    "Lib/site-packages/qtpy/tests/test_qtlocation.py",
+    "Lib/site-packages/qtpy/tests/test_qtmacextras.py",
+    "Lib/site-packages/qtpy/tests/test_qtmultimedia.py",
+    "Lib/site-packages/qtpy/tests/test_qtmultimediawidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtnetwork.py",
+    "Lib/site-packages/qtpy/tests/test_qtnetworkauth.py",
+    "Lib/site-packages/qtpy/tests/test_qtopengl.py",
+    "Lib/site-packages/qtpy/tests/test_qtopenglwidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtpdf.py",
+    "Lib/site-packages/qtpy/tests/test_qtpdfwidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtpositioning.py",
+    "Lib/site-packages/qtpy/tests/test_qtprintsupport.py",
+    "Lib/site-packages/qtpy/tests/test_qtpurchasing.py",
+    "Lib/site-packages/qtpy/tests/test_qtqml.py",
+    "Lib/site-packages/qtpy/tests/test_qtquick.py",
+    "Lib/site-packages/qtpy/tests/test_qtquick3d.py",
+    "Lib/site-packages/qtpy/tests/test_qtquickcontrols2.py",
+    "Lib/site-packages/qtpy/tests/test_qtquickwidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtremoteobjects.py",
+    "Lib/site-packages/qtpy/tests/test_qtscxml.py",
+    "Lib/site-packages/qtpy/tests/test_qtsensors.py",
+    "Lib/site-packages/qtpy/tests/test_qtserialport.py",
+    "Lib/site-packages/qtpy/tests/test_qtsql.py",
+    "Lib/site-packages/qtpy/tests/test_qtstatemachine.py",
+    "Lib/site-packages/qtpy/tests/test_qtsvg.py",
+    "Lib/site-packages/qtpy/tests/test_qtsvgwidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qttest.py",
+    "Lib/site-packages/qtpy/tests/test_qttexttospeech.py",
+    "Lib/site-packages/qtpy/tests/test_qtuitools.py",
+    "Lib/site-packages/qtpy/tests/test_qtwebchannel.py",
+    "Lib/site-packages/qtpy/tests/test_qtwebenginecore.py",
+    "Lib/site-packages/qtpy/tests/test_qtwebenginequick.py",
+    "Lib/site-packages/qtpy/tests/test_qtwebenginewidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtwebsockets.py",
+    "Lib/site-packages/qtpy/tests/test_qtwidgets.py",
+    "Lib/site-packages/qtpy/tests/test_qtwinextras.py",
+    "Lib/site-packages/qtpy/tests/test_qtx11extras.py",
+    "Lib/site-packages/qtpy/tests/test_qtxml.py",
+    "Lib/site-packages/qtpy/tests/test_qtxmlpatterns.py",
+    "Lib/site-packages/qtpy/tests/test_shiboken.py",
+    "Lib/site-packages/qtpy/tests/test_sip.py",
+    "Lib/site-packages/qtpy/tests/test_uic.py",
+    "Lib/site-packages/qtpy/tests/utils.py",
+    "Lib/site-packages/qtpy/uic.py",
+    "Scripts/qtpy-script.py",
+    "Scripts/qtpy.exe"
+  ],
+  "fn": "qtpy-2.4.1-py38haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Conda\\pkgs\\qtpy-2.4.1-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "8bd20bc199b8cefa3b2bc358c382fe75",
+  "name": "qtpy",
+  "package_tarball_full_path": "D:\\Conda\\pkgs\\qtpy-2.4.1-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/AUTHORS.md",
+        "path_type": "hardlink",
+        "sha256": "46149d191d4be4fcf944ed349b46dc9bf8089bd2afa79ec089363d63bf1aec74",
+        "sha256_in_prefix": "46149d191d4be4fcf944ed349b46dc9bf8089bd2afa79ec089363d63bf1aec74",
+        "size_in_bytes": 816
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "59ec4225bd380e349a82e6482437ff9475eeb1c2e676a2d1185bb53315d45bf9",
+        "sha256_in_prefix": "59ec4225bd380e349a82e6482437ff9475eeb1c2e676a2d1185bb53315d45bf9",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c491a27be8b8e4cc2620628a03f06c2d30fd56c3b056a6bc10dc9ac2494623b0",
+        "sha256_in_prefix": "c491a27be8b8e4cc2620628a03f06c2d30fd56c3b056a6bc10dc9ac2494623b0",
+        "size_in_bytes": 12616
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "33a806706b8c7ede6695cd46e172045949dff276241f440a9f223287f45fd829",
+        "sha256_in_prefix": "33a806706b8c7ede6695cd46e172045949dff276241f440a9f223287f45fd829",
+        "size_in_bytes": 19323
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0840c324ae06161b77010a933b929ee6017f73c885448750d5a3d4fe1b90acda",
+        "sha256_in_prefix": "0840c324ae06161b77010a933b929ee6017f73c885448750d5a3d4fe1b90acda",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "8bd2fec1d45bdda11b2cb6dbd15e325774cc3ab6c779fc109993ed403d50c0d6",
+        "sha256_in_prefix": "8bd2fec1d45bdda11b2cb6dbd15e325774cc3ab6c779fc109993ed403d50c0d6",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "Lib/site-packages/QtPy-2.4.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3ff236375d3ae01c3bf09013d3dc233ec6525badcf85390671edd8c33baa6443",
+        "sha256_in_prefix": "3ff236375d3ae01c3bf09013d3dc233ec6525badcf85390671edd8c33baa6443",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qsci.py",
+        "path_type": "hardlink",
+        "sha256": "4853fe01b07581f0cca3b024e9a2fc22945af36d98ecc32bf95091a650fe1da6",
+        "sha256_in_prefix": "4853fe01b07581f0cca3b024e9a2fc22945af36d98ecc32bf95091a650fe1da6",
+        "size_in_bytes": 993
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DAnimation.py",
+        "path_type": "hardlink",
+        "sha256": "7e6f97e655ea549ccb353aafad759035f1f4dde174d305bcea0395d481517238",
+        "sha256_in_prefix": "7e6f97e655ea549ccb353aafad759035f1f4dde174d305bcea0395d481517238",
+        "size_in_bytes": 1407
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DCore.py",
+        "path_type": "hardlink",
+        "sha256": "498d625c606dac6d03ddbc356d2ec386048e721c9608c284102e341609f14660",
+        "sha256_in_prefix": "498d625c606dac6d03ddbc356d2ec386048e721c9608c284102e341609f14660",
+        "size_in_bytes": 1362
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DExtras.py",
+        "path_type": "hardlink",
+        "sha256": "456f205538b5d92399c92154edac30ea92931fd4d93ab53c5f31a033691b9d98",
+        "sha256_in_prefix": "456f205538b5d92399c92154edac30ea92931fd4d93ab53c5f31a033691b9d98",
+        "size_in_bytes": 1380
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DInput.py",
+        "path_type": "hardlink",
+        "sha256": "426ee7bd9bd49f3b56cab0fc4741b7512002f198dd899215d8d35b9887c3d762",
+        "sha256_in_prefix": "426ee7bd9bd49f3b56cab0fc4741b7512002f198dd899215d8d35b9887c3d762",
+        "size_in_bytes": 1371
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DLogic.py",
+        "path_type": "hardlink",
+        "sha256": "1df0b6ae61c0e8330998f55d8a0f4bd1fd47e807d3400d8ec3de1c2ee301e0ab",
+        "sha256_in_prefix": "1df0b6ae61c0e8330998f55d8a0f4bd1fd47e807d3400d8ec3de1c2ee301e0ab",
+        "size_in_bytes": 1371
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/Qt3DRender.py",
+        "path_type": "hardlink",
+        "sha256": "5f001908f12ae1888bf3704b4ac82ef50e962e32b7522533dbf7a16884381bd5",
+        "sha256_in_prefix": "5f001908f12ae1888bf3704b4ac82ef50e962e32b7522533dbf7a16884381bd5",
+        "size_in_bytes": 1380
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtAxContainer.py",
+        "path_type": "hardlink",
+        "sha256": "a2577c71a862a2dd858444577bb0904753a35be378b9fceccd01b83697362973",
+        "sha256_in_prefix": "a2577c71a862a2dd858444577bb0904753a35be378b9fceccd01b83697362973",
+        "size_in_bytes": 630
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtBluetooth.py",
+        "path_type": "hardlink",
+        "sha256": "bb5175511c7ce4669bf88a94064f97a1e5bdf6c3808c3e804de1664a14574a6d",
+        "sha256_in_prefix": "bb5175511c7ce4669bf88a94064f97a1e5bdf6c3808c3e804de1664a14574a6d",
+        "size_in_bytes": 659
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtCharts.py",
+        "path_type": "hardlink",
+        "sha256": "5123f08fdc1baa54d5b06fd422a1a14848d500adbfa550e06fcc6864e16794c6",
+        "sha256_in_prefix": "5123f08fdc1baa54d5b06fd422a1a14848d500adbfa550e06fcc6864e16794c6",
+        "size_in_bytes": 1330
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtConcurrent.py",
+        "path_type": "hardlink",
+        "sha256": "2f20699e89d1a1e4926dc83300de8a611beffef0766b706991c955e6a23acb3a",
+        "sha256_in_prefix": "2f20699e89d1a1e4926dc83300de8a611beffef0766b706991c955e6a23acb3a",
+        "size_in_bytes": 626
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtCore.py",
+        "path_type": "hardlink",
+        "sha256": "f646b416c8808d8cb5f2b697f1cd4894015b087d4132ae047e769e7a25e225fa",
+        "sha256_in_prefix": "f646b416c8808d8cb5f2b697f1cd4894015b087d4132ae047e769e7a25e225fa",
+        "size_in_bytes": 6474
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtDBus.py",
+        "path_type": "hardlink",
+        "sha256": "79662b9d6c6a0f5ab8b80ebdca2430dfdb196626936c21d81309f5f9395dcae4",
+        "sha256_in_prefix": "79662b9d6c6a0f5ab8b80ebdca2430dfdb196626936c21d81309f5f9395dcae4",
+        "size_in_bytes": 768
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtDataVisualization.py",
+        "path_type": "hardlink",
+        "sha256": "8d9cf946dab02580aa5f8e084fd97712e12e1441289f9787bcf6d50993cb4d99",
+        "sha256_in_prefix": "8d9cf946dab02580aa5f8e084fd97712e12e1441289f9787bcf6d50993cb4d99",
+        "size_in_bytes": 1294
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtDesigner.py",
+        "path_type": "hardlink",
+        "sha256": "b6e023da5cbf5923da27a94b847c52b305d7e96105ceb0c626a13a0de02b3e0f",
+        "sha256_in_prefix": "b6e023da5cbf5923da27a94b847c52b305d7e96105ceb0c626a13a0de02b3e0f",
+        "size_in_bytes": 646
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtGui.py",
+        "path_type": "hardlink",
+        "sha256": "f337ff05b4796df28232b23a29f238c1e285de939ceacbf56891aac76a511cac",
+        "sha256_in_prefix": "f337ff05b4796df28232b23a29f238c1e285de939ceacbf56891aac76a511cac",
+        "size_in_bytes": 8624
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtHelp.py",
+        "path_type": "hardlink",
+        "sha256": "8d1b56d0f29f49d8c89f6174cdfef38490e1e402cbbd44c5ae9df5358d1119dd",
+        "sha256_in_prefix": "8d1b56d0f29f49d8c89f6174cdfef38490e1e402cbbd44c5ae9df5358d1119dd",
+        "size_in_bytes": 537
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtLocation.py",
+        "path_type": "hardlink",
+        "sha256": "c15713be1249423bb7780c087228dec7985ddd487d1280c80a23b8fcb4eb72f1",
+        "sha256_in_prefix": "c15713be1249423bb7780c087228dec7985ddd487d1280c80a23b8fcb4eb72f1",
+        "size_in_bytes": 676
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtMacExtras.py",
+        "path_type": "hardlink",
+        "sha256": "4eba7b1643246f0b4c535eaf1e438b7e1ebe2690058641959fd0a45e5fa0e58f",
+        "sha256_in_prefix": "4eba7b1643246f0b4c535eaf1e438b7e1ebe2690058641959fd0a45e5fa0e58f",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtMultimedia.py",
+        "path_type": "hardlink",
+        "sha256": "39188c37c1f9ee549697ff6be7efb85cc7885d150a472a66bc0ab8777e800e0e",
+        "sha256_in_prefix": "39188c37c1f9ee549697ff6be7efb85cc7885d150a472a66bc0ab8777e800e0e",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtMultimediaWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "4098276ad03021a4151cb690cd9d8e51e0f996f59bec1c95d424eda968ce9462",
+        "sha256_in_prefix": "4098276ad03021a4151cb690cd9d8e51e0f996f59bec1c95d424eda968ce9462",
+        "size_in_bytes": 625
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtNetwork.py",
+        "path_type": "hardlink",
+        "sha256": "b98c65ec6accfe7abcf477907ca5e8036c3642f4301c90c5c03a9ed209b76d65",
+        "sha256_in_prefix": "b98c65ec6accfe7abcf477907ca5e8036c3642f4301c90c5c03a9ed209b76d65",
+        "size_in_bytes": 616
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtNetworkAuth.py",
+        "path_type": "hardlink",
+        "sha256": "7daea2081e495455e0a6ec97af34e0e7146f59ccc2271cf3c893e3234a133125",
+        "sha256_in_prefix": "7daea2081e495455e0a6ec97af34e0e7146f59ccc2271cf3c893e3234a133125",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtNfc.py",
+        "path_type": "hardlink",
+        "sha256": "b2c5d9853c2efbe486ffc0c8c6b473c06fc2ed4eaf557f0c9c38bdb029b3b488",
+        "sha256_in_prefix": "b2c5d9853c2efbe486ffc0c8c6b473c06fc2ed4eaf557f0c9c38bdb029b3b488",
+        "size_in_bytes": 629
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtOpenGL.py",
+        "path_type": "hardlink",
+        "sha256": "6e586403e42f8d6553d880def60e54d6952584057be1455a9f4e40a959fdb4c3",
+        "sha256_in_prefix": "6e586403e42f8d6553d880def60e54d6952584057be1455a9f4e40a959fdb4c3",
+        "size_in_bytes": 2032
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtOpenGLWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "73b2a3ecc58bed22445d61f7f64774b9280bbd32d915b243cd7cef1c61223c46",
+        "sha256_in_prefix": "73b2a3ecc58bed22445d61f7f64774b9280bbd32d915b243cd7cef1c61223c46",
+        "size_in_bytes": 701
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtPdf.py",
+        "path_type": "hardlink",
+        "sha256": "f18276e634c115a1e8b6d1525af334f174482f02d56aa21754ad348ce8186890",
+        "sha256_in_prefix": "f18276e634c115a1e8b6d1525af334f174482f02d56aa21754ad348ce8186890",
+        "size_in_bytes": 725
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtPdfWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "c4cefed3b91bbb657d433b8d9a55a44f7382181439ed35993ea0e216d8a944b2",
+        "sha256_in_prefix": "c4cefed3b91bbb657d433b8d9a55a44f7382181439ed35993ea0e216d8a944b2",
+        "size_in_bytes": 760
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtPositioning.py",
+        "path_type": "hardlink",
+        "sha256": "c25ca82a5f748be943e01d136da834b75904f318e3ff7eea0301a994ca2a404c",
+        "sha256_in_prefix": "c25ca82a5f748be943e01d136da834b75904f318e3ff7eea0301a994ca2a404c",
+        "size_in_bytes": 581
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtPrintSupport.py",
+        "path_type": "hardlink",
+        "sha256": "05186c3f542bebd2d4c7a0e1f8d6b8ebc4413cdb769100e5ade8776a57246c03",
+        "sha256_in_prefix": "05186c3f542bebd2d4c7a0e1f8d6b8ebc4413cdb769100e5ade8776a57246c03",
+        "size_in_bytes": 1181
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtPurchasing.py",
+        "path_type": "hardlink",
+        "sha256": "2598774fa91247a77c30f6f67845eda081f3c1e824c93b767a819de46b81edac",
+        "sha256_in_prefix": "2598774fa91247a77c30f6f67845eda081f3c1e824c93b767a819de46b81edac",
+        "size_in_bytes": 808
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtQml.py",
+        "path_type": "hardlink",
+        "sha256": "8e133d91d80c4fd8eb950197d8da5310ceab29f8dcc438800bcccf23bdc50f2e",
+        "sha256_in_prefix": "8e133d91d80c4fd8eb950197d8da5310ceab29f8dcc438800bcccf23bdc50f2e",
+        "size_in_bytes": 555
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtQuick.py",
+        "path_type": "hardlink",
+        "sha256": "90140388e4260a0c2c5c82278fdc2630af8cc108b1d62f4a38c0ce3433eea3f7",
+        "sha256_in_prefix": "90140388e4260a0c2c5c82278fdc2630af8cc108b1d62f4a38c0ce3433eea3f7",
+        "size_in_bytes": 565
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtQuick3D.py",
+        "path_type": "hardlink",
+        "sha256": "3fe789330cfd9380a7311b73dc3bdd76179436b33093f22051d53e237562c950",
+        "sha256_in_prefix": "3fe789330cfd9380a7311b73dc3bdd76179436b33093f22051d53e237562c950",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtQuickControls2.py",
+        "path_type": "hardlink",
+        "sha256": "fbbcaf7596e26ebc7dc09acbb04cb2df90fb638e9866997ac24dc4d8d90f12cd",
+        "sha256_in_prefix": "fbbcaf7596e26ebc7dc09acbb04cb2df90fb638e9866997ac24dc4d8d90f12cd",
+        "size_in_bytes": 642
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtQuickWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "794a1074e5afe6aa52e7faee2ae4d67932df96f4f199bb6c657df640607844df",
+        "sha256_in_prefix": "794a1074e5afe6aa52e7faee2ae4d67932df96f4f199bb6c657df640607844df",
+        "size_in_bytes": 600
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtRemoteObjects.py",
+        "path_type": "hardlink",
+        "sha256": "9359b5b575dff0a4c9c806e10f9627dca0ea600c9b68dbfdaedf0d168eda8e6e",
+        "sha256_in_prefix": "9359b5b575dff0a4c9c806e10f9627dca0ea600c9b68dbfdaedf0d168eda8e6e",
+        "size_in_bytes": 605
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtScxml.py",
+        "path_type": "hardlink",
+        "sha256": "ad4874bb1fc255b5e764ca7b33b829d965862188ce034f149bcaf97d782b98f2",
+        "sha256_in_prefix": "ad4874bb1fc255b5e764ca7b33b829d965862188ce034f149bcaf97d782b98f2",
+        "size_in_bytes": 606
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtSensors.py",
+        "path_type": "hardlink",
+        "sha256": "39795db78ce77b9690905420b8f5ccd8d4489ce54d63eb72ee6ebb058f32b379",
+        "sha256_in_prefix": "39795db78ce77b9690905420b8f5ccd8d4489ce54d63eb72ee6ebb058f32b379",
+        "size_in_bytes": 575
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtSerialPort.py",
+        "path_type": "hardlink",
+        "sha256": "1ee5d42c77e53b38c60f165509eef1b7735e355ee24386d034be518d975e044a",
+        "sha256_in_prefix": "1ee5d42c77e53b38c60f165509eef1b7735e355ee24386d034be518d975e044a",
+        "size_in_bytes": 623
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtSql.py",
+        "path_type": "hardlink",
+        "sha256": "8f8f4f9454ea4a119d91d25724ce0eba2a7f853d22f7804daf79c5b9c4e53584",
+        "sha256_in_prefix": "8f8f4f9454ea4a119d91d25724ce0eba2a7f853d22f7804daf79c5b9c4e53584",
+        "size_in_bytes": 1122
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtStateMachine.py",
+        "path_type": "hardlink",
+        "sha256": "a6e0a1e52bd09e99a4666887a1c836e9dccd64bf4e27e26b2e033c72042069e0",
+        "sha256_in_prefix": "a6e0a1e52bd09e99a4666887a1c836e9dccd64bf4e27e26b2e033c72042069e0",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtSvg.py",
+        "path_type": "hardlink",
+        "sha256": "c7eefceadbf9760346b16982aca131057b1d2b4cb9bffb4bef4e33634a1f3f86",
+        "sha256_in_prefix": "c7eefceadbf9760346b16982aca131057b1d2b4cb9bffb4bef4e33634a1f3f86",
+        "size_in_bytes": 555
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtSvgWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "16ea95c47190885c7727eb50867d33cad7590dd7f84c9f225e91b6360fd7c3c2",
+        "sha256_in_prefix": "16ea95c47190885c7727eb50867d33cad7590dd7f84c9f225e91b6360fd7c3c2",
+        "size_in_bytes": 686
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtTest.py",
+        "path_type": "hardlink",
+        "sha256": "204d78172279c172c6584fcf7c3617a6d0d1ff286316c064acd4bf1e92dc3312",
+        "sha256_in_prefix": "204d78172279c172c6584fcf7c3617a6d0d1ff286316c064acd4bf1e92dc3312",
+        "size_in_bytes": 771
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtTextToSpeech.py",
+        "path_type": "hardlink",
+        "sha256": "e36ce4fdad5934cd35f7a875ae71c7bb003118ab93426bf0d1a21384eea5120b",
+        "sha256_in_prefix": "e36ce4fdad5934cd35f7a875ae71c7bb003118ab93426bf0d1a21384eea5120b",
+        "size_in_bytes": 696
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtUiTools.py",
+        "path_type": "hardlink",
+        "sha256": "e1ebcfc02f7d808a462cf2b43716c7c299c99c012556849b7255400811a92202",
+        "sha256_in_prefix": "e1ebcfc02f7d808a462cf2b43716c7c299c99c012556849b7255400811a92202",
+        "size_in_bytes": 614
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebChannel.py",
+        "path_type": "hardlink",
+        "sha256": "42fb061e846897efc22c699544148c44e3dbbb160fedc9e4b56f1f16c0c57b65",
+        "sha256_in_prefix": "42fb061e846897efc22c699544148c44e3dbbb160fedc9e4b56f1f16c0c57b65",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebEngine.py",
+        "path_type": "hardlink",
+        "sha256": "5ab78f04d5e04b741f0d3666e7695e525806c20c93c64717e0651e67aafc4b50",
+        "sha256_in_prefix": "5ab78f04d5e04b741f0d3666e7695e525806c20c93c64717e0651e67aafc4b50",
+        "size_in_bytes": 946
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebEngineCore.py",
+        "path_type": "hardlink",
+        "sha256": "7874b17bb211a665fcba427799be1555a6bf23abd7f218f16adc99f8549d2cfe",
+        "sha256_in_prefix": "7874b17bb211a665fcba427799be1555a6bf23abd7f218f16adc99f8549d2cfe",
+        "size_in_bytes": 1053
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebEngineQuick.py",
+        "path_type": "hardlink",
+        "sha256": "69efbe9a76249e73bd84e8fbac3a6f7899df7dc328c2451a3cdcb7cb577c5d70",
+        "sha256_in_prefix": "69efbe9a76249e73bd84e8fbac3a6f7899df7dc328c2451a3cdcb7cb577c5d70",
+        "size_in_bytes": 937
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebEngineWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "77b91f7f86a1d3fe6609634268c199998482af92571e9ff8c49927966c8f619b",
+        "sha256_in_prefix": "77b91f7f86a1d3fe6609634268c199998482af92571e9ff8c49927966c8f619b",
+        "size_in_bytes": 2044
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWebSockets.py",
+        "path_type": "hardlink",
+        "sha256": "e9ad40dabbd06406652ae83a7b4a1b3e79a57897a9bb551b8346c4bd555cb34c",
+        "sha256_in_prefix": "e9ad40dabbd06406652ae83a7b4a1b3e79a57897a9bb551b8346c4bd555cb34c",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWidgets.py",
+        "path_type": "hardlink",
+        "sha256": "c312522a4fa2f1bd625c081c1b9262bb6b899d0e94ec31307b7fef8ac5777921",
+        "sha256_in_prefix": "c312522a4fa2f1bd625c081c1b9262bb6b899d0e94ec31307b7fef8ac5777921",
+        "size_in_bytes": 7068
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtWinExtras.py",
+        "path_type": "hardlink",
+        "sha256": "ac600f325346f9dd52c63516d301f3dd9f733ce0d265839893f7dd6ed29c5ff4",
+        "sha256_in_prefix": "ac600f325346f9dd52c63516d301f3dd9f733ce0d265839893f7dd6ed29c5ff4",
+        "size_in_bytes": 828
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtX11Extras.py",
+        "path_type": "hardlink",
+        "sha256": "58eb929b00073d286060743ce4eff5be0bb226d09be0ba03f171ad9df7e4ab10",
+        "sha256_in_prefix": "58eb929b00073d286060743ce4eff5be0bb226d09be0ba03f171ad9df7e4ab10",
+        "size_in_bytes": 826
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtXml.py",
+        "path_type": "hardlink",
+        "sha256": "14276621007f0c2748ffb5e4a46e2f8654a65c91b8ecfb786ad463e9bdb58bf2",
+        "sha256_in_prefix": "14276621007f0c2748ffb5e4a46e2f8654a65c91b8ecfb786ad463e9bdb58bf2",
+        "size_in_bytes": 555
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/QtXmlPatterns.py",
+        "path_type": "hardlink",
+        "sha256": "15246f059d012b11233fa2a4bf99f33b41982973ba6cf55a8e2271968c9f4153",
+        "sha256_in_prefix": "15246f059d012b11233fa2a4bf99f33b41982973ba6cf55a8e2271968c9f4153",
+        "size_in_bytes": 691
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "91eebae47a9d736a85bfc6aa5280f07d3e0951bbfba5a93b613fd12d7126d2fe",
+        "sha256_in_prefix": "91eebae47a9d736a85bfc6aa5280f07d3e0951bbfba5a93b613fd12d7126d2fe",
+        "size_in_bytes": 10356
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "4238b1e9fa941de508bbb93d0cc5f6079f63d94dcbf67c8561776ed9cf4d968f",
+        "sha256_in_prefix": "4238b1e9fa941de508bbb93d0cc5f6079f63d94dcbf67c8561776ed9cf4d968f",
+        "size_in_bytes": 461
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qsci.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2dba04a518cd0d9bf3842c59a1deb58c6e2975c87afa10a48b6676d7a7ece2d1",
+        "sha256_in_prefix": "2dba04a518cd0d9bf3842c59a1deb58c6e2975c87afa10a48b6676d7a7ece2d1",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DAnimation.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "42c0d7b271e384d9412e30bd4fa301ce278f3f774dbaf34d205b54d23c9c1f4d",
+        "sha256_in_prefix": "42c0d7b271e384d9412e30bd4fa301ce278f3f774dbaf34d205b54d23c9c1f4d",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DCore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea5a156712f60937ff2efba38cabc35fa58ca3866d1fe3ca9fb3d42d847328e3",
+        "sha256_in_prefix": "ea5a156712f60937ff2efba38cabc35fa58ca3866d1fe3ca9fb3d42d847328e3",
+        "size_in_bytes": 832
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DExtras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1730fe51125c503e11a4fc6838d3f094a99ee467baef0d2e5ac8daca397288bb",
+        "sha256_in_prefix": "1730fe51125c503e11a4fc6838d3f094a99ee467baef0d2e5ac8daca397288bb",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DInput.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a9ebbe5b43cd8152c0616c4f322802a6587ff826cefbc8c5c09ec604a150bf4",
+        "sha256_in_prefix": "3a9ebbe5b43cd8152c0616c4f322802a6587ff826cefbc8c5c09ec604a150bf4",
+        "size_in_bytes": 839
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DLogic.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2a4fee866cc8d14dec7007b035689575b672c7a7cc46a89cb7e2afa1fbfc1d8",
+        "sha256_in_prefix": "a2a4fee866cc8d14dec7007b035689575b672c7a7cc46a89cb7e2afa1fbfc1d8",
+        "size_in_bytes": 839
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/Qt3DRender.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "38a0f8a8bf0a211ab923caaa5fd6c87414a49c6cf309cb78ecf094d9570f894e",
+        "sha256_in_prefix": "38a0f8a8bf0a211ab923caaa5fd6c87414a49c6cf309cb78ecf094d9570f894e",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtAxContainer.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "189a45f40041a972a0b35a827cc8f2248e502d15af9f8edf6183042082a17ff0",
+        "sha256_in_prefix": "189a45f40041a972a0b35a827cc8f2248e502d15af9f8edf6183042082a17ff0",
+        "size_in_bytes": 449
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtBluetooth.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad98fd8aa5a832baed3313630dfb728ce920f227271fbea3be09752173304472",
+        "sha256_in_prefix": "ad98fd8aa5a832baed3313630dfb728ce920f227271fbea3be09752173304472",
+        "size_in_bytes": 470
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtCharts.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5db661beba8db3dca8a5c54c99a9c23383d2ffb5e1328236fb3faabae97ba697",
+        "sha256_in_prefix": "5db661beba8db3dca8a5c54c99a9c23383d2ffb5e1328236fb3faabae97ba697",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtConcurrent.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4991746bf092306b3a669aecfe8819570ad1ad71b93341328107b834d3308eaa",
+        "sha256_in_prefix": "4991746bf092306b3a669aecfe8819570ad1ad71b93341328107b834d3308eaa",
+        "size_in_bytes": 444
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtCore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "10fc49e88e547b0fb5da1d89897815e688768c6b11eee5b91262bbaaf8cf6296",
+        "sha256_in_prefix": "10fc49e88e547b0fb5da1d89897815e688768c6b11eee5b91262bbaaf8cf6296",
+        "size_in_bytes": 4159
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtDBus.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1786cd0d521f62a7fbb91ca8779da68f312bb64ea12a4ce0821cd6a758ddc5e2",
+        "sha256_in_prefix": "1786cd0d521f62a7fbb91ca8779da68f312bb64ea12a4ce0821cd6a758ddc5e2",
+        "size_in_bytes": 529
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtDataVisualization.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "79384eced3575da1ea21a0c0354685e1961493639b537995d3001e57b8392a93",
+        "sha256_in_prefix": "79384eced3575da1ea21a0c0354685e1961493639b537995d3001e57b8392a93",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtDesigner.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "93c80e65375c0a1fa19a0f57b162ed325814e7d54f403e0019f60a67db831a11",
+        "sha256_in_prefix": "93c80e65375c0a1fa19a0f57b162ed325814e7d54f403e0019f60a67db831a11",
+        "size_in_bytes": 464
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtGui.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "28915947b6d47dce3175ee6344e750bb86fabd38be6ff46e1c977d0774d00e23",
+        "sha256_in_prefix": "28915947b6d47dce3175ee6344e750bb86fabd38be6ff46e1c977d0774d00e23",
+        "size_in_bytes": 6605
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtHelp.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f33a9ec03cb4b587e9196cc6df12a44a111a5a9100d621a879121d38df8d278",
+        "sha256_in_prefix": "9f33a9ec03cb4b587e9196cc6df12a44a111a5a9100d621a879121d38df8d278",
+        "size_in_bytes": 377
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtLocation.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2dc103ac0fdb3414b4e569cd2e5a66e74c24f722c33c54fe6ce88fd68513818a",
+        "sha256_in_prefix": "2dc103ac0fdb3414b4e569cd2e5a66e74c24f722c33c54fe6ce88fd68513818a",
+        "size_in_bytes": 448
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtMacExtras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4899e0d7c054860c9820b8441148061c39245711bdf0bac1af1ee08339fdda92",
+        "sha256_in_prefix": "4899e0d7c054860c9820b8441148061c39245711bdf0bac1af1ee08339fdda92",
+        "size_in_bytes": 574
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtMultimedia.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "90c5bf7f158da526288178b4153fe8425d3b54afc68b7e1e6f2a39c229b46268",
+        "sha256_in_prefix": "90c5bf7f158da526288178b4153fe8425d3b54afc68b7e1e6f2a39c229b46268",
+        "size_in_bytes": 436
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtMultimediaWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fe3c6ba2f5a3afae9f6053cbf69d1d6cbf83f1603eae33aa795d8a8e55c57614",
+        "sha256_in_prefix": "fe3c6ba2f5a3afae9f6053cbf69d1d6cbf83f1603eae33aa795d8a8e55c57614",
+        "size_in_bytes": 478
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtNetwork.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "42278c748fd19fd1da13f619e1414d00d8d36f739e3258f84f3d69b43b59fa8b",
+        "sha256_in_prefix": "42278c748fd19fd1da13f619e1414d00d8d36f739e3258f84f3d69b43b59fa8b",
+        "size_in_bytes": 418
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtNetworkAuth.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd7c2460c039236b8733167ebb706e4593372703a819af12aeedff2ecd4d62b6",
+        "sha256_in_prefix": "fd7c2460c039236b8733167ebb706e4593372703a819af12aeedff2ecd4d62b6",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtNfc.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f0f80ebda0b486d3481d15fe0d9f5f4e2386ed27977aa1898907d39da9b0129",
+        "sha256_in_prefix": "2f0f80ebda0b486d3481d15fe0d9f5f4e2386ed27977aa1898907d39da9b0129",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtOpenGL.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0f40ac4a62bf2fe6ac8b26451d76733622ec2ed2ca5d0833ecb5592de4d8450",
+        "sha256_in_prefix": "d0f40ac4a62bf2fe6ac8b26451d76733622ec2ed2ca5d0833ecb5592de4d8450",
+        "size_in_bytes": 1235
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtOpenGLWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d6a0e00c1e759e6410a1666b471d43ac6f73d93c43598e27424c8385b690baaa",
+        "sha256_in_prefix": "d6a0e00c1e759e6410a1666b471d43ac6f73d93c43598e27424c8385b690baaa",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtPdf.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "6e5ce940974979fa6d2b4773a22beb2c7c890660eb852ba231b75d268ad7925b",
+        "sha256_in_prefix": "6e5ce940974979fa6d2b4773a22beb2c7c890660eb852ba231b75d268ad7925b",
+        "size_in_bytes": 423
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtPdfWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "07595c4626e6e9e515cceb9c4d74ff6aa791a46ae51aa8a978b3d4655efafefb",
+        "sha256_in_prefix": "07595c4626e6e9e515cceb9c4d74ff6aa791a46ae51aa8a978b3d4655efafefb",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtPositioning.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7303ea732abbe81e65ebd4efdec6f6d63be7a7d92281f1b24d58cdb42d51b963",
+        "sha256_in_prefix": "7303ea732abbe81e65ebd4efdec6f6d63be7a7d92281f1b24d58cdb42d51b963",
+        "size_in_bytes": 442
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtPrintSupport.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "df73cf0217834c7ddf37aa8b2a0e21ff6bd9987aa1096ce8cbf236c585764507",
+        "sha256_in_prefix": "df73cf0217834c7ddf37aa8b2a0e21ff6bd9987aa1096ce8cbf236c585764507",
+        "size_in_bytes": 1068
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtPurchasing.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d9ed2071b4cb8b78d5e56a8b6d4081f2ec157b853958a934b24f649989acc35b",
+        "sha256_in_prefix": "d9ed2071b4cb8b78d5e56a8b6d4081f2ec157b853958a934b24f649989acc35b",
+        "size_in_bytes": 580
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtQml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "38efdae1873207dfbf424d72d9ae4f6c038daeeed9cdeb7c3a7d072b9de9116d",
+        "sha256_in_prefix": "38efdae1873207dfbf424d72d9ae4f6c038daeeed9cdeb7c3a7d072b9de9116d",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtQuick.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f83552b7ca3bed28cecceeb6c320d9840404a437ed93b5c22c12b5b85b12098b",
+        "sha256_in_prefix": "f83552b7ca3bed28cecceeb6c320d9840404a437ed93b5c22c12b5b85b12098b",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtQuick3D.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a0443d1e72b9fdd37a9745718608d22b0e02110476e9aa9d1a182dd2604cc63",
+        "sha256_in_prefix": "9a0443d1e72b9fdd37a9745718608d22b0e02110476e9aa9d1a182dd2604cc63",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtQuickControls2.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f9d6284cdab92146e909851017ff2ad9a307d78b1fabc29726d55c9db1719ed4",
+        "sha256_in_prefix": "f9d6284cdab92146e909851017ff2ad9a307d78b1fabc29726d55c9db1719ed4",
+        "size_in_bytes": 464
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtQuickWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "dda2d68e3499646577ade3a935ad0bd345383f6a4b42ebb01937cb9986490831",
+        "sha256_in_prefix": "dda2d68e3499646577ade3a935ad0bd345383f6a4b42ebb01937cb9986490831",
+        "size_in_bytes": 448
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtRemoteObjects.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "904997aa39a33eea7b6207f3dbee12efa9d3fced643a1c4a3ec5a92c8333f856",
+        "sha256_in_prefix": "904997aa39a33eea7b6207f3dbee12efa9d3fced643a1c4a3ec5a92c8333f856",
+        "size_in_bytes": 454
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtScxml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4eb852547174eae81aecb75f681435a220e1ef45bb22aef12580b3a9bd23fd5c",
+        "sha256_in_prefix": "4eb852547174eae81aecb75f681435a220e1ef45bb22aef12580b3a9bd23fd5c",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtSensors.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "afd21e08a3eb6a6ca72924a14cfd51eedf67447bd58cdca463c1037f25cf7fa6",
+        "sha256_in_prefix": "afd21e08a3eb6a6ca72924a14cfd51eedf67447bd58cdca463c1037f25cf7fa6",
+        "size_in_bytes": 418
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtSerialPort.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c1341fdfd1fa3027e44a7ba5a5dfcb41aa39ef4a3821537d3aba8049a3ce901",
+        "sha256_in_prefix": "9c1341fdfd1fa3027e44a7ba5a5dfcb41aa39ef4a3821537d3aba8049a3ce901",
+        "size_in_bytes": 436
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtSql.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7613f807cfd6e4f66f01735ed2a5374195ed1ab55abf2eac1419f71ba8062980",
+        "sha256_in_prefix": "7613f807cfd6e4f66f01735ed2a5374195ed1ab55abf2eac1419f71ba8062980",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtStateMachine.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a23ed5208104d5924878d26f5e38e875133e0cb71f2532f2a3bff3d6ff22bdd4",
+        "sha256_in_prefix": "a23ed5208104d5924878d26f5e38e875133e0cb71f2532f2a3bff3d6ff22bdd4",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtSvg.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "767922137e36620e6ba4d772f736e07987bcde362e5b951038adf46386aeade4",
+        "sha256_in_prefix": "767922137e36620e6ba4d772f736e07987bcde362e5b951038adf46386aeade4",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtSvgWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "03939b01a1845604855cad7409c88b4619e25bc39573fef5621e02fd77c78016",
+        "sha256_in_prefix": "03939b01a1845604855cad7409c88b4619e25bc39573fef5621e02fd77c78016",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtTest.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "49bfe386d44ee94163d46401c0589263a4a6f6cb2cf197dec5ff167b62c2b702",
+        "sha256_in_prefix": "49bfe386d44ee94163d46401c0589263a4a6f6cb2cf197dec5ff167b62c2b702",
+        "size_in_bytes": 491
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtTextToSpeech.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c2a8e0520f947b3077adbf948cbbc088c0e9a38cbc04ede8a4c2ccf5f8cc7a4",
+        "sha256_in_prefix": "9c2a8e0520f947b3077adbf948cbbc088c0e9a38cbc04ede8a4c2ccf5f8cc7a4",
+        "size_in_bytes": 468
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtUiTools.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f9992eae5440d3eafb902305d546daa458e80880156a4395b2f04b52e0d49ae",
+        "sha256_in_prefix": "9f9992eae5440d3eafb902305d546daa458e80880156a4395b2f04b52e0d49ae",
+        "size_in_bytes": 429
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebChannel.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "591fd58b8605b580108d5963766f1deb46878e541af8a41595be87e43372ff15",
+        "sha256_in_prefix": "591fd58b8605b580108d5963766f1deb46878e541af8a41595be87e43372ff15",
+        "size_in_bytes": 436
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebEngine.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "30b15ab5ba25c90e2dcadf7d49642cfa19915225f534343151de5c7ffed41434",
+        "sha256_in_prefix": "30b15ab5ba25c90e2dcadf7d49642cfa19915225f534343151de5c7ffed41434",
+        "size_in_bytes": 626
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebEngineCore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3e6c05e0be6a79f4abd168a6b14ac5e0470727149c4f1c5ba7a3acb21d3c1b1",
+        "sha256_in_prefix": "f3e6c05e0be6a79f4abd168a6b14ac5e0470727149c4f1c5ba7a3acb21d3c1b1",
+        "size_in_bytes": 732
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebEngineQuick.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "124a135e670722f20cb08dba92c8e0f9f3fc94761da8f9ca77f7638f20ffa65c",
+        "sha256_in_prefix": "124a135e670722f20cb08dba92c8e0f9f3fc94761da8f9ca77f7638f20ffa65c",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebEngineWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d6d71a73fbf20e7be03e76e48a2d809532c37f8f0d61c988f276eb6fa0009764",
+        "sha256_in_prefix": "d6d71a73fbf20e7be03e76e48a2d809532c37f8f0d61c988f276eb6fa0009764",
+        "size_in_bytes": 1051
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWebSockets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "49c6c1703457e7ba7aa7865ec710fb06baed5b55e277480c98e8487730d67b7d",
+        "sha256_in_prefix": "49c6c1703457e7ba7aa7865ec710fb06baed5b55e277480c98e8487730d67b7d",
+        "size_in_bytes": 436
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d791835ced0153d91660c735bf21f481d1aae7c57b32b5af7b3dcf9e4d232121",
+        "sha256_in_prefix": "d791835ced0153d91660c735bf21f481d1aae7c57b32b5af7b3dcf9e4d232121",
+        "size_in_bytes": 4543
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtWinExtras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a09b01866232d5e4ce96f2e8f92c24dae179096105de8b9ba5fa815ed60c498a",
+        "sha256_in_prefix": "a09b01866232d5e4ce96f2e8f92c24dae179096105de8b9ba5fa815ed60c498a",
+        "size_in_bytes": 534
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtX11Extras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5292b845788694f460d0329ee0619f669a4b78b81d249fbc116cb24c75f278c1",
+        "sha256_in_prefix": "5292b845788694f460d0329ee0619f669a4b78b81d249fbc116cb24c75f278c1",
+        "size_in_bytes": 532
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtXml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff8f08d3182acb65a86046f5a81a4acad71fafbae73c9a8c264d40e9d8a4fcd6",
+        "sha256_in_prefix": "ff8f08d3182acb65a86046f5a81a4acad71fafbae73c9a8c264d40e9d8a4fcd6",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/QtXmlPatterns.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "84ba62869c228a3b54cba565ce39f8976a56d945394a23e81fc28ea62843d492",
+        "sha256_in_prefix": "84ba62869c228a3b54cba565ce39f8976a56d945394a23e81fc28ea62843d492",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f86697dadc2943b9bb878562b11172669c9bb496588645f0808fb573eeb0cf8",
+        "sha256_in_prefix": "7f86697dadc2943b9bb878562b11172669c9bb496588645f0808fb573eeb0cf8",
+        "size_in_bytes": 7977
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2989e8b5372c46944af29e887c2bdf2d5ed8b71500a16bbb04c1a5b9da7a0030",
+        "sha256_in_prefix": "2989e8b5372c46944af29e887c2bdf2d5ed8b71500a16bbb04c1a5b9da7a0030",
+        "size_in_bytes": 395
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/_utils.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "547ff14c37c980314277568b7c6fab2b8ae5761f6f3172db12275b444a6071f9",
+        "sha256_in_prefix": "547ff14c37c980314277568b7c6fab2b8ae5761f6f3172db12275b444a6071f9",
+        "size_in_bytes": 3446
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/cli.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ee496df2559c9d6afa3c2e091d9a2b262b57f683b84f72e5b30ed1f93139579",
+        "sha256_in_prefix": "5ee496df2559c9d6afa3c2e091d9a2b262b57f683b84f72e5b30ed1f93139579",
+        "size_in_bytes": 5318
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/compat.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "af12c0039da93deb0b08263eb03ab96393bd91aa31429a182f6a43668c97648b",
+        "sha256_in_prefix": "af12c0039da93deb0b08263eb03ab96393bd91aa31429a182f6a43668c97648b",
+        "size_in_bytes": 4088
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/enums_compat.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa60fa418b1b8d4f7a363f5c5fcfc2ac5d3e255679091c305d8c055fc37ce2c1",
+        "sha256_in_prefix": "fa60fa418b1b8d4f7a363f5c5fcfc2ac5d3e255679091c305d8c055fc37ce2c1",
+        "size_in_bytes": 1281
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/shiboken.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "65a5df60cc98ce8bc20175ab6c07bf26c2e4050745d970a789428925d751fe8b",
+        "sha256_in_prefix": "65a5df60cc98ce8bc20175ab6c07bf26c2e4050745d970a789428925d751fe8b",
+        "size_in_bytes": 398
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/sip.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed3497df3f3ec442c6bb1999beac7ca314e06d1abf6623fc629f9651a9374038",
+        "sha256_in_prefix": "ed3497df3f3ec442c6bb1999beac7ca314e06d1abf6623fc629f9651a9374038",
+        "size_in_bytes": 383
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/__pycache__/uic.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e443075f440d1c64246fe7caba0abc5c244d22350beb2bc23ea189739f13775e",
+        "sha256_in_prefix": "e443075f440d1c64246fe7caba0abc5c244d22350beb2bc23ea189739f13775e",
+        "size_in_bytes": 6280
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "97a9f44814502e2df9af7993e36cae810944ce1e5a152760438ed169f6df12c6",
+        "sha256_in_prefix": "97a9f44814502e2df9af7993e36cae810944ce1e5a152760438ed169f6df12c6",
+        "size_in_bytes": 5187
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/cli.py",
+        "path_type": "hardlink",
+        "sha256": "a21613eced0a68ed3cbb1401362dcf9d92cfbd530177995a358576a5a2d579d9",
+        "sha256_in_prefix": "a21613eced0a68ed3cbb1401362dcf9d92cfbd530177995a358576a5a2d579d9",
+        "size_in_bytes": 4945
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/compat.py",
+        "path_type": "hardlink",
+        "sha256": "4490e4cdddc7027a368bb2857b254b3a4ee5fb95ced1d3ae392856db19e3af6c",
+        "sha256_in_prefix": "4490e4cdddc7027a368bb2857b254b3a4ee5fb95ced1d3ae392856db19e3af6c",
+        "size_in_bytes": 5624
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/enums_compat.py",
+        "path_type": "hardlink",
+        "sha256": "5979dbe55d7b013881616b75e5fe58d8f59f9b501d8454a651ab2f9695aa81ed",
+        "sha256_in_prefix": "5979dbe55d7b013881616b75e5fe58d8f59f9b501d8454a651ab2f9695aa81ed",
+        "size_in_bytes": 1454
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/shiboken.py",
+        "path_type": "hardlink",
+        "sha256": "42fe09269341ef2c64018757fd7e69832c1758cba953554d5aa50a7ad0cd49d8",
+        "sha256_in_prefix": "42fe09269341ef2c64018757fd7e69832c1758cba953554d5aa50a7ad0cd49d8",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/sip.py",
+        "path_type": "hardlink",
+        "sha256": "023511de2956d7568da5c8d884d58a7d7c2d817a8cc62825f8bf175a4ddbb38b",
+        "sha256_in_prefix": "023511de2956d7568da5c8d884d58a7d7c2d817a8cc62825f8bf175a4ddbb38b",
+        "size_in_bytes": 574
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "87233aa1a1865a228704f208054207d1235e2fdfff1d51e0ecee7432f71383bb",
+        "sha256_in_prefix": "87233aa1a1865a228704f208054207d1235e2fdfff1d51e0ecee7432f71383bb",
+        "size_in_bytes": 131
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/conftest.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "97c8f83f42e0e047e1521641bb9f2ae0b495c644c03058bff3e6423cc471810f",
+        "sha256_in_prefix": "97c8f83f42e0e047e1521641bb9f2ae0b495c644c03058bff3e6423cc471810f",
+        "size_in_bytes": 1731
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_cli.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "490787d093e6ebf9c735864d49957aceb0687f178aed55b98545bd6458dadbca",
+        "sha256_in_prefix": "490787d093e6ebf9c735864d49957aceb0687f178aed55b98545bd6458dadbca",
+        "size_in_bytes": 3582
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_compat.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ffb6887faf138b8fc56787dc5da87604d86fe2063c635b2c4019d573efc53762",
+        "sha256_in_prefix": "ffb6887faf138b8fc56787dc5da87604d86fe2063c635b2c4019d573efc53762",
+        "size_in_bytes": 827
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_macos_checks.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb4314a8ab70de446cd5156968c7b47fdbdd33fd4c3db1234a524898a3dded9a",
+        "sha256_in_prefix": "cb4314a8ab70de446cd5156968c7b47fdbdd33fd4c3db1234a524898a3dded9a",
+        "size_in_bytes": 2207
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_main.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ef1eb47e3d62848e6213bac961402ce8c6c9fce658488c6a50e781cdfa32944",
+        "sha256_in_prefix": "1ef1eb47e3d62848e6213bac961402ce8c6c9fce658488c6a50e781cdfa32944",
+        "size_in_bytes": 3232
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_missing_optional_deps.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4223a5dcaec0faa81b898d20d6f19bc38254ed0e467f274e37f442a310475938",
+        "sha256_in_prefix": "4223a5dcaec0faa81b898d20d6f19bc38254ed0e467f274e37f442a310475938",
+        "size_in_bytes": 806
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qdesktopservice_split.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "929d25027068c941b8840b3fe9525f065559acbed12530c2443331cec63fb3ec",
+        "sha256_in_prefix": "929d25027068c941b8840b3fe9525f065559acbed12530c2443331cec63fb3ec",
+        "size_in_bytes": 781
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qsci.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "69ef5731dadef25419c5c8e2d1b2e31914e135d69788672eb910166044be38c5",
+        "sha256_in_prefix": "69ef5731dadef25419c5c8e2d1b2e31914e135d69788672eb910166044be38c5",
+        "size_in_bytes": 2362
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3danimation.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f2683664e0bb974b67ae15f2a5bf95eb15ce45aa18d8a5842b2492b297a3b04",
+        "sha256_in_prefix": "8f2683664e0bb974b67ae15f2a5bf95eb15ce45aa18d8a5842b2492b297a3b04",
+        "size_in_bytes": 923
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dcore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b1181bb23b5586fbe466ef7861505fca63f56eec3d67525222af7a6cc9df0531",
+        "sha256_in_prefix": "b1181bb23b5586fbe466ef7861505fca63f56eec3d67525222af7a6cc9df0531",
+        "size_in_bytes": 1790
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dextras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f6ab5b06b1d115d015f61fc9a52d0978ca65fca662ec1c6ec46a45dd5d2859fa",
+        "sha256_in_prefix": "f6ab5b06b1d115d015f61fc9a52d0978ca65fca662ec1c6ec46a45dd5d2859fa",
+        "size_in_bytes": 1704
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dinput.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9f77b5f436d12f0020b40dce458cef66d6c3be1fd367fab86812a16526f09ea",
+        "sha256_in_prefix": "a9f77b5f436d12f0020b40dce458cef66d6c3be1fd367fab86812a16526f09ea",
+        "size_in_bytes": 1068
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3dlogic.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b45de29fd6c01e3a35c565881843d381f1847b333f30f2bba28f14dfa959f92",
+        "sha256_in_prefix": "1b45de29fd6c01e3a35c565881843d381f1847b333f30f2bba28f14dfa959f92",
+        "size_in_bytes": 425
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qt3drender.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "087ea6259b3fbd5fc7c0d9d92e0a09ce823e803dc476310501d6738cb7e5d090",
+        "sha256_in_prefix": "087ea6259b3fbd5fc7c0d9d92e0a09ce823e803dc476310501d6738cb7e5d090",
+        "size_in_bytes": 4251
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtaxcontainer.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "96384c169caeb891e5d1de6fe766ed0c525a7ab35827ba91b18e8bf85f06f1af",
+        "sha256_in_prefix": "96384c169caeb891e5d1de6fe766ed0c525a7ab35827ba91b18e8bf85f06f1af",
+        "size_in_bytes": 439
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtbluetooth.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1a9457c87a64445803f3c6b42259011e8c4537666125ed4fb969debddda1d573",
+        "sha256_in_prefix": "1a9457c87a64445803f3c6b42259011e8c4537666125ed4fb969debddda1d573",
+        "size_in_bytes": 625
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtcharts.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b94dfb0afd3ef5dcdab841d1fd15ad3c183f93f5cd7ea770e667abb8997b01a",
+        "sha256_in_prefix": "7b94dfb0afd3ef5dcdab841d1fd15ad3c183f93f5cd7ea770e667abb8997b01a",
+        "size_in_bytes": 552
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtconcurrent.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7326a999746720e35154b439d05666825ba68a3eda790e697b388f26babaee77",
+        "sha256_in_prefix": "7326a999746720e35154b439d05666825ba68a3eda790e697b388f26babaee77",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtcore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c68edf98391e420842cdb525576d0121bbef86d984b31e2ce4092daf28b55e0f",
+        "sha256_in_prefix": "c68edf98391e420842cdb525576d0121bbef86d984b31e2ce4092daf28b55e0f",
+        "size_in_bytes": 6933
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtdatavisualization.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3eea0c3860da20247c73e5f72c369fae0015f385b58b2e96732955e8f4727627",
+        "sha256_in_prefix": "3eea0c3860da20247c73e5f72c369fae0015f385b58b2e96732955e8f4727627",
+        "size_in_bytes": 2367
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtdbus.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "50ed054611619e1d018dc4ed9b8cf216656861febb0d2de02ff1c6b94571a350",
+        "sha256_in_prefix": "50ed054611619e1d018dc4ed9b8cf216656861febb0d2de02ff1c6b94571a350",
+        "size_in_bytes": 492
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtdesigner.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "94622ef8f5864da92c5c4a9a769721879244a9b144f1594f4ca8757be20b0061",
+        "sha256_in_prefix": "94622ef8f5864da92c5c4a9a769721879244a9b144f1594f4ca8757be20b0061",
+        "size_in_bytes": 1361
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtgui.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "37e09aa0b603ec86d2825db6846874349b3a980273ad69feb5881db55835005a",
+        "sha256_in_prefix": "37e09aa0b603ec86d2825db6846874349b3a980273ad69feb5881db55835005a",
+        "size_in_bytes": 6072
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qthelp.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "da57a25efa999782b21a34995123a803e0732b6a858cfa761a21737b441caba8",
+        "sha256_in_prefix": "da57a25efa999782b21a34995123a803e0732b6a858cfa761a21737b441caba8",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtlocation.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a4a9c29cf88838e69921a7e24d92b664cfbe6824e24d7eec75ab0377dd1d2680",
+        "sha256_in_prefix": "a4a9c29cf88838e69921a7e24d92b664cfbe6824e24d7eec75ab0377dd1d2680",
+        "size_in_bytes": 1875
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtmacextras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "19e4fcddc8739be09ade616980516f72e6bdc91c7e3ee96acaeb76adca9707cc",
+        "sha256_in_prefix": "19e4fcddc8739be09ade616980516f72e6bdc91c7e3ee96acaeb76adca9707cc",
+        "size_in_bytes": 796
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtmultimedia.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2064a4fd44d96ef8dcb4c65ab85f14257238b4c4f44212b5c90bf35660e612d8",
+        "sha256_in_prefix": "2064a4fd44d96ef8dcb4c65ab85f14257238b4c4f44212b5c90bf35660e612d8",
+        "size_in_bytes": 600
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtmultimediawidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce4303d10d4b9bc30f01541ecf62a84a87656d1e8f144e4a443e2c25806bf956",
+        "sha256_in_prefix": "ce4303d10d4b9bc30f01541ecf62a84a87656d1e8f144e4a443e2c25806bf956",
+        "size_in_bytes": 589
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtnetwork.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fdfe3622edb54e09b62d04e23ee9e2dcf8bca190847d12ebf86f0096109bec3f",
+        "sha256_in_prefix": "fdfe3622edb54e09b62d04e23ee9e2dcf8bca190847d12ebf86f0096109bec3f",
+        "size_in_bytes": 1530
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtnetworkauth.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fca0d95f3c015f9d7c46c0e3330ef2394ecaeb05f6447dfb1cc730d6dc80ae7b",
+        "sha256_in_prefix": "fca0d95f3c015f9d7c46c0e3330ef2394ecaeb05f6447dfb1cc730d6dc80ae7b",
+        "size_in_bytes": 736
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtopengl.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "39db52667abdb3eee870a5d5c3b17b1f494938e59abb8e04ab882dd856589eef",
+        "sha256_in_prefix": "39db52667abdb3eee870a5d5c3b17b1f494938e59abb8e04ab882dd856589eef",
+        "size_in_bytes": 886
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtopenglwidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c87dd8cd1ca8564911fecf6825440c4eff42a9b31a97b12f8472df98c176ca2f",
+        "sha256_in_prefix": "c87dd8cd1ca8564911fecf6825440c4eff42a9b31a97b12f8472df98c176ca2f",
+        "size_in_bytes": 537
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtpdf.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ec4e5cdcf8ab1ebc11b8068e9cc3d26b4f7c7a3c3fbc94d7f2cd7a335cda805a",
+        "sha256_in_prefix": "ec4e5cdcf8ab1ebc11b8068e9cc3d26b4f7c7a3c3fbc94d7f2cd7a335cda805a",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtpdfwidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "959d5ac5676139f3ee529499dcad5d5578ec8131f036563761c0fcde7bfec47c",
+        "sha256_in_prefix": "959d5ac5676139f3ee529499dcad5d5578ec8131f036563761c0fcde7bfec47c",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtpositioning.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ccd570d5d4e46d3357e5f0bd2b3a4b8a6a262210c932a8fa41ec71851187a886",
+        "sha256_in_prefix": "ccd570d5d4e46d3357e5f0bd2b3a4b8a6a262210c932a8fa41ec71851187a886",
+        "size_in_bytes": 1039
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtprintsupport.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a76dcbbda890dcc9df38e735cc881b196a42900f21e2cd32fb91b8ad9d7ad526",
+        "sha256_in_prefix": "a76dcbbda890dcc9df38e735cc881b196a42900f21e2cd32fb91b8ad9d7ad526",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtpurchasing.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ec6c3026264c2a3c7819777475dbf3b1deaa35c20fbf072d8592411acda8cda",
+        "sha256_in_prefix": "8ec6c3026264c2a3c7819777475dbf3b1deaa35c20fbf072d8592411acda8cda",
+        "size_in_bytes": 475
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtqml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "442d61b69f8a78ebaeb3b399ac030932c1f1276bee19d3af0017ad6bc8366c1a",
+        "sha256_in_prefix": "442d61b69f8a78ebaeb3b399ac030932c1f1276bee19d3af0017ad6bc8366c1a",
+        "size_in_bytes": 1196
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtquick.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e49fd98663a75efcfa7e11ad63b913fa56554181f53f6aa80009d4da83d19eff",
+        "sha256_in_prefix": "e49fd98663a75efcfa7e11ad63b913fa56554181f53f6aa80009d4da83d19eff",
+        "size_in_bytes": 1753
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtquick3d.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba5ada61e64dcd041eef4e7861e1fabab7b8eda72fda516f271fb2b30d53bf22",
+        "sha256_in_prefix": "ba5ada61e64dcd041eef4e7861e1fabab7b8eda72fda516f271fb2b30d53bf22",
+        "size_in_bytes": 457
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtquickcontrols2.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a707da1617542c8d484fa3f72289eec83ddd59dc8c0828253a8e1cd77acd86f",
+        "sha256_in_prefix": "0a707da1617542c8d484fa3f72289eec83ddd59dc8c0828253a8e1cd77acd86f",
+        "size_in_bytes": 429
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtquickwidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1786ce1e01404c603dd174572993fcc05482b2cbf6113c161feb6356f6930959",
+        "sha256_in_prefix": "1786ce1e01404c603dd174572993fcc05482b2cbf6113c161feb6356f6930959",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtremoteobjects.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "25f3934dccddc86b5be60264c0080003940d87c905dd9d5b28f72bb0c2a2101a",
+        "sha256_in_prefix": "25f3934dccddc86b5be60264c0080003940d87c905dd9d5b28f72bb0c2a2101a",
+        "size_in_bytes": 602
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtscxml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "062a464a92e433f34cb095828fdb854187d0c20d81d2e1f2e74c1a8a731a87c5",
+        "sha256_in_prefix": "062a464a92e433f34cb095828fdb854187d0c20d81d2e1f2e74c1a8a731a87c5",
+        "size_in_bytes": 478
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtsensors.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "33af1efdbccd7c30ecfd0daa6d4fff82bdc6d2ca1f937d74cb439b565c9be1e8",
+        "sha256_in_prefix": "33af1efdbccd7c30ecfd0daa6d4fff82bdc6d2ca1f937d74cb439b565c9be1e8",
+        "size_in_bytes": 474
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtserialport.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5dad09db8d5c0d897931cba27dfa7cd5292ca40ebfbe61d3d76e11a48b98f9e6",
+        "sha256_in_prefix": "5dad09db8d5c0d897931cba27dfa7cd5292ca40ebfbe61d3d76e11a48b98f9e6",
+        "size_in_bytes": 541
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtsql.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "daa2a141caf347f4ca6743957c78288fecae2c9c9353070fea3d0f8bbffab58e",
+        "sha256_in_prefix": "daa2a141caf347f4ca6743957c78288fecae2c9c9353070fea3d0f8bbffab58e",
+        "size_in_bytes": 2191
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtstatemachine.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0ad035e8537b39b1ff2bd4fa416fd39256656e7a1f233cb341f6177015d75ef",
+        "sha256_in_prefix": "e0ad035e8537b39b1ff2bd4fa416fd39256656e7a1f233cb341f6177015d75ef",
+        "size_in_bytes": 688
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtsvg.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "934d25d55266b4795990cf55f8e871c09f9427f6c9483ac1c6b0e110c42e960c",
+        "sha256_in_prefix": "934d25d55266b4795990cf55f8e871c09f9427f6c9483ac1c6b0e110c42e960c",
+        "size_in_bytes": 540
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtsvgwidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "832dc1f32ec2eaa05fef82f198ed6670548ee8e4e1dd05ac7e5686eba68f822a",
+        "sha256_in_prefix": "832dc1f32ec2eaa05fef82f198ed6670548ee8e4e1dd05ac7e5686eba68f822a",
+        "size_in_bytes": 442
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qttest.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b460bd91b23c8f8663b243acb348a5873878b19dd474fe607bba74a64471d656",
+        "sha256_in_prefix": "b460bd91b23c8f8663b243acb348a5873878b19dd474fe607bba74a64471d656",
+        "size_in_bytes": 1042
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qttexttospeech.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "66f649eead6fa2da70e8ccd169cd1f8e140b6968845ff733eb69d38faacfff7a",
+        "sha256_in_prefix": "66f649eead6fa2da70e8ccd169cd1f8e140b6968845ff733eb69d38faacfff7a",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtuitools.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4fd441731b9a79541441be85576ed35cd4bb729508f6aed2873127ac30f7891",
+        "sha256_in_prefix": "d4fd441731b9a79541441be85576ed35cd4bb729508f6aed2873127ac30f7891",
+        "size_in_bytes": 392
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebchannel.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f8a95336d0afce8058e0c74bc509d86b9b6dd215b5ba977e291c8f8ea1553bf",
+        "sha256_in_prefix": "5f8a95336d0afce8058e0c74bc509d86b9b6dd215b5ba977e291c8f8ea1553bf",
+        "size_in_bytes": 417
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginecore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "0f148e8f3e2f5964cf5b9ecdd05623d75f1def75f3f1d9d203d41827f73a8fd5",
+        "sha256_in_prefix": "0f148e8f3e2f5964cf5b9ecdd05623d75f1def75f3f1d9d203d41827f73a8fd5",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginequick.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "21189b15f7b6bc95d97398aa7d198986d5bad2f77903cdd53c50fa4676ccc04c",
+        "sha256_in_prefix": "21189b15f7b6bc95d97398aa7d198986d5bad2f77903cdd53c50fa4676ccc04c",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebenginewidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "763dfe3b96bfa9af9e8e9654aed177cd85a6911a7c1520ab66d8207671ded909",
+        "sha256_in_prefix": "763dfe3b96bfa9af9e8e9654aed177cd85a6911a7c1520ab66d8207671ded909",
+        "size_in_bytes": 883
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwebsockets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f0f9d2199e15fe11c630074e5340fa707d5832690f51563a33bc03642d564379",
+        "sha256_in_prefix": "f0f9d2199e15fe11c630074e5340fa707d5832690f51563a33bc03642d564379",
+        "size_in_bytes": 517
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwidgets.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c9d174de0d12251d81239ba8b5b1279033323463af8c918da36ed77f9de3b064",
+        "sha256_in_prefix": "c9d174de0d12251d81239ba8b5b1279033323463af8c918da36ed77f9de3b064",
+        "size_in_bytes": 8383
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtwinextras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3eefc1e342871edc83aa6d0fed372e01b645d71c9e8acc614e36f973a579a5f1",
+        "sha256_in_prefix": "3eefc1e342871edc83aa6d0fed372e01b645d71c9e8acc614e36f973a579a5f1",
+        "size_in_bytes": 1147
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtx11extras.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "91f8a9657badd78a846698b9bbbd5597b2fcf328abe103092126f933f6646089",
+        "sha256_in_prefix": "91f8a9657badd78a846698b9bbbd5597b2fcf328abe103092126f933f6646089",
+        "size_in_bytes": 352
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtxml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e371778664b21ce70de6f4d860c01c65b7af493d36826041a1ff12748e969b33",
+        "sha256_in_prefix": "e371778664b21ce70de6f4d860c01c65b7af493d36826041a1ff12748e969b33",
+        "size_in_bytes": 859
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_qtxmlpatterns.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0602ad12a4a81983b33b2df29a420b098b7c6df3bcb2397ae1663b9e0575f58",
+        "sha256_in_prefix": "d0602ad12a4a81983b33b2df29a420b098b7c6df3bcb2397ae1663b9e0575f58",
+        "size_in_bytes": 1054
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_shiboken.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc5edb364e20a2beba53fc9de49a2cdbfea18e84673dccc4500c3e605d120937",
+        "sha256_in_prefix": "dc5edb364e20a2beba53fc9de49a2cdbfea18e84673dccc4500c3e605d120937",
+        "size_in_bytes": 492
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_sip.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "72937cbfa6684569ac130675028699d207a305e0c93865542b98ff098a488d37",
+        "sha256_in_prefix": "72937cbfa6684569ac130675028699d207a305e0c93865542b98ff098a488d37",
+        "size_in_bytes": 838
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/test_uic.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "95a869e572fe6227ee8912af6e0797ae180359da8b5d2a7510e8acf7ab52ae07",
+        "sha256_in_prefix": "95a869e572fe6227ee8912af6e0797ae180359da8b5d2a7510e8acf7ab52ae07",
+        "size_in_bytes": 4049
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/__pycache__/utils.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1c090b0604e493657eab510a4c056da5e10dbb98f93a32c4e951b8f3734036b",
+        "sha256_in_prefix": "d1c090b0604e493657eab510a4c056da5e10dbb98f93a32c4e951b8f3734036b",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "468b29a0bd2c67bb97d4e1b0b16d23e2efb6614ba27e0f5dff35fa19b82e26dc",
+        "sha256_in_prefix": "468b29a0bd2c67bb97d4e1b0b16d23e2efb6614ba27e0f5dff35fa19b82e26dc",
+        "size_in_bytes": 1982
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/optional_deps/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e8fc32ea3f4d7ce9d7ac4a94be832f16ef6af727b9a4890129518f22fc26323c",
+        "sha256_in_prefix": "e8fc32ea3f4d7ce9d7ac4a94be832f16ef6af727b9a4890129518f22fc26323c",
+        "size_in_bytes": 755
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/optional_deps/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6fb54334fd92f171e2a44b342f70573b1f47ea3abbcb8c3068c52671dcd4ce6",
+        "sha256_in_prefix": "c6fb54334fd92f171e2a44b342f70573b1f47ea3abbcb8c3068c52671dcd4ce6",
+        "size_in_bytes": 843
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/optional_deps/__pycache__/optional_dep.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e8070823d8b686655a4acf75f48815e042b63b1d330f3d00cfae1a34a42fd13",
+        "sha256_in_prefix": "7e8070823d8b686655a4acf75f48815e042b63b1d330f3d00cfae1a34a42fd13",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/optional_deps/optional_dep.py",
+        "path_type": "hardlink",
+        "sha256": "1d915d1bcd847dc7ed7d6b9acef463c20e0a2bd71ab2876ea45b462465f27ab5",
+        "sha256_in_prefix": "1d915d1bcd847dc7ed7d6b9acef463c20e0a2bd71ab2876ea45b462465f27ab5",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test.ui",
+        "path_type": "hardlink",
+        "sha256": "ac3d2140798773204c55d2e77cb5b7063ac85c8047364b606d1ff604a2065858",
+        "sha256_in_prefix": "ac3d2140798773204c55d2e77cb5b7063ac85c8047364b606d1ff604a2065858",
+        "size_in_bytes": 882
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_cli.py",
+        "path_type": "hardlink",
+        "sha256": "d86eeaf6794c3b859f76d39bafce52d1720a990627197855dbcc0785522779bb",
+        "sha256_in_prefix": "d86eeaf6794c3b859f76d39bafce52d1720a990627197855dbcc0785522779bb",
+        "size_in_bytes": 3983
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_compat.py",
+        "path_type": "hardlink",
+        "sha256": "3ff3813a3d9ccf5e0913dc61bbf9d05df606d1f57d7dfd60930d9325d309a7fb",
+        "sha256_in_prefix": "3ff3813a3d9ccf5e0913dc61bbf9d05df606d1f57d7dfd60930d9325d309a7fb",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_custom.ui",
+        "path_type": "hardlink",
+        "sha256": "037490893b23541f5a14f67516dc8739e5ff7329af67c20b6c3faf6cb46e0957",
+        "sha256_in_prefix": "037490893b23541f5a14f67516dc8739e5ff7329af67c20b6c3faf6cb46e0957",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_macos_checks.py",
+        "path_type": "hardlink",
+        "sha256": "389426990334ab10c6d427c8c0743298ed00112b6c67cf8c95e411db95722d5a",
+        "sha256_in_prefix": "389426990334ab10c6d427c8c0743298ed00112b6c67cf8c95e411db95722d5a",
+        "size_in_bytes": 2935
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_main.py",
+        "path_type": "hardlink",
+        "sha256": "f22a1d56dd23704fedda900ab411fe9ae63a0790d37a2ef1552a7a5e37e2232f",
+        "sha256_in_prefix": "f22a1d56dd23704fedda900ab411fe9ae63a0790d37a2ef1552a7a5e37e2232f",
+        "size_in_bytes": 3791
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_missing_optional_deps.py",
+        "path_type": "hardlink",
+        "sha256": "bfead92b856912c055305be0b3ad9823fa7852d20b2d2f2af7ef473cc6dd5d18",
+        "sha256_in_prefix": "bfead92b856912c055305be0b3ad9823fa7852d20b2d2f2af7ef473cc6dd5d18",
+        "size_in_bytes": 635
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qdesktopservice_split.py",
+        "path_type": "hardlink",
+        "sha256": "f46244ac3d448c86e2aac256debf81d1a5732c57ac0bfa579c899c588b4618c0",
+        "sha256_in_prefix": "f46244ac3d448c86e2aac256debf81d1a5732c57ac0bfa579c899c588b4618c0",
+        "size_in_bytes": 575
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qsci.py",
+        "path_type": "hardlink",
+        "sha256": "4d2ced668cd075652b704cb15b6fee901384cd2b31dc2391cfdfa0e35732e65e",
+        "sha256_in_prefix": "4d2ced668cd075652b704cb15b6fee901384cd2b31dc2391cfdfa0e35732e65e",
+        "size_in_bytes": 2629
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3danimation.py",
+        "path_type": "hardlink",
+        "sha256": "cd74f61ec7daf587fadc30b3a090f26f0b52d3daf92ba1940353ec9ed4937d60",
+        "sha256_in_prefix": "cd74f61ec7daf587fadc30b3a090f26f0b52d3daf92ba1940353ec9ed4937d60",
+        "size_in_bytes": 991
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3dcore.py",
+        "path_type": "hardlink",
+        "sha256": "50243411b863ea4f54fcf0428c987f697cd870a4c22c0827b08b1c879f36f828",
+        "sha256_in_prefix": "50243411b863ea4f54fcf0428c987f697cd870a4c22c0827b08b1c879f36f828",
+        "size_in_bytes": 2034
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3dextras.py",
+        "path_type": "hardlink",
+        "sha256": "cd92f5dcb6bbc18e7440806843f76645a400ba576e50e04e9aa5febd063f9d59",
+        "sha256_in_prefix": "cd92f5dcb6bbc18e7440806843f76645a400ba576e50e04e9aa5febd063f9d59",
+        "size_in_bytes": 2064
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3dinput.py",
+        "path_type": "hardlink",
+        "sha256": "10cce8c3311e5c8b1ec95357b979262615bfcae22931586d754e8f037f3dd902",
+        "sha256_in_prefix": "10cce8c3311e5c8b1ec95357b979262615bfcae22931586d754e8f037f3dd902",
+        "size_in_bytes": 1182
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3dlogic.py",
+        "path_type": "hardlink",
+        "sha256": "0a0a5bd82cde8fec32f0e0bcb67206be3cd1cda1a89e8fe4d7aaf1e05be4cb8b",
+        "sha256_in_prefix": "0a0a5bd82cde8fec32f0e0bcb67206be3cd1cda1a89e8fe4d7aaf1e05be4cb8b",
+        "size_in_bytes": 229
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qt3drender.py",
+        "path_type": "hardlink",
+        "sha256": "0992b7e8e0650d043519c88437ee509ee72a2a1b9e0ecf97aae1e0a7d1c3b446",
+        "sha256_in_prefix": "0992b7e8e0650d043519c88437ee509ee72a2a1b9e0ecf97aae1e0a7d1c3b446",
+        "size_in_bytes": 5686
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtaxcontainer.py",
+        "path_type": "hardlink",
+        "sha256": "c2bae78d83a14d089229cb6bf439795e26cbb37539a117ce6f65c994be5cfc1f",
+        "sha256_in_prefix": "c2bae78d83a14d089229cb6bf439795e26cbb37539a117ce6f65c994be5cfc1f",
+        "size_in_bytes": 247
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtbluetooth.py",
+        "path_type": "hardlink",
+        "sha256": "4e9967b4ce30a3f86989038a4bc6386f9e070856c0a72df1195205ea687ba7f7",
+        "sha256_in_prefix": "4e9967b4ce30a3f86989038a4bc6386f9e070856c0a72df1195205ea687ba7f7",
+        "size_in_bytes": 521
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtcharts.py",
+        "path_type": "hardlink",
+        "sha256": "4adb3d524c0cb8fb04d28e213fce090d95ecad3a17045938da8265dde84e4e6b",
+        "sha256_in_prefix": "4adb3d524c0cb8fb04d28e213fce090d95ecad3a17045938da8265dde84e4e6b",
+        "size_in_bytes": 358
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtconcurrent.py",
+        "path_type": "hardlink",
+        "sha256": "b3c532a406ca16cf1c08438c53d22d3ed0fdd347c19f30d96c53052b9bc27ad6",
+        "sha256_in_prefix": "b3c532a406ca16cf1c08438c53d22d3ed0fdd347c19f30d96c53052b9bc27ad6",
+        "size_in_bytes": 566
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtcore.py",
+        "path_type": "hardlink",
+        "sha256": "227bbf44f43f1f6e6e838ca8e78220aca6afd7ec7edf70f9039a662ae40739db",
+        "sha256_in_prefix": "227bbf44f43f1f6e6e838ca8e78220aca6afd7ec7edf70f9039a662ae40739db",
+        "size_in_bytes": 6752
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtdatavisualization.py",
+        "path_type": "hardlink",
+        "sha256": "ac67a109a0a0d9cf868710badb8ef3b61d194892572bbaf00edce847646905d2",
+        "sha256_in_prefix": "ac67a109a0a0d9cf868710badb8ef3b61d194892572bbaf00edce847646905d2",
+        "size_in_bytes": 4885
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtdbus.py",
+        "path_type": "hardlink",
+        "sha256": "bc2f886a3b4f349bd4f06e00f37df832b8ef7ceba0411e12ac6cf0ebf682da5a",
+        "sha256_in_prefix": "bc2f886a3b4f349bd4f06e00f37df832b8ef7ceba0411e12ac6cf0ebf682da5a",
+        "size_in_bytes": 319
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtdesigner.py",
+        "path_type": "hardlink",
+        "sha256": "d9ea2e6c4c4fbf6b61b868a7a3b4a87b450e963b93ad8de269e82236afb19a1b",
+        "sha256_in_prefix": "d9ea2e6c4c4fbf6b61b868a7a3b4a87b450e963b93ad8de269e82236afb19a1b",
+        "size_in_bytes": 1437
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtgui.py",
+        "path_type": "hardlink",
+        "sha256": "e6afecba8e7eed7038416ed3577656e3c5c6086ab1ebb5b69018ac68c44229fb",
+        "sha256_in_prefix": "e6afecba8e7eed7038416ed3577656e3c5c6086ab1ebb5b69018ac68c44229fb",
+        "size_in_bytes": 6739
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qthelp.py",
+        "path_type": "hardlink",
+        "sha256": "fe66981e9bf0dffe9ad2dac361eee1e22aafbc68522c0160ec853438f8893c7c",
+        "sha256_in_prefix": "fe66981e9bf0dffe9ad2dac361eee1e22aafbc68522c0160ec853438f8893c7c",
+        "size_in_bytes": 652
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtlocation.py",
+        "path_type": "hardlink",
+        "sha256": "f94ce9dfa5e609ef7d9360420b6d33bd0759ae4bc60e78b7cdc999288acd6c69",
+        "sha256_in_prefix": "f94ce9dfa5e609ef7d9360420b6d33bd0759ae4bc60e78b7cdc999288acd6c69",
+        "size_in_bytes": 2256
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtmacextras.py",
+        "path_type": "hardlink",
+        "sha256": "c1ceeafc4fdc5ad3ece13825ad41dda3202cfb2b1f1a6fa4c76dcbc72be76546",
+        "sha256_in_prefix": "c1ceeafc4fdc5ad3ece13825ad41dda3202cfb2b1f1a6fa4c76dcbc72be76546",
+        "size_in_bytes": 622
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtmultimedia.py",
+        "path_type": "hardlink",
+        "sha256": "b0f46dfa5e17fe4033ad1723fb5ac779a76e0386b9d0dfaea6b1930aa92a7ce0",
+        "sha256_in_prefix": "b0f46dfa5e17fe4033ad1723fb5ac779a76e0386b9d0dfaea6b1930aa92a7ce0",
+        "size_in_bytes": 456
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtmultimediawidgets.py",
+        "path_type": "hardlink",
+        "sha256": "4ac34d028612675016ffb4aa70747fb715ae31c927b72a193a02452c46af56dc",
+        "sha256_in_prefix": "4ac34d028612675016ffb4aa70747fb715ae31c927b72a193a02452c46af56dc",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtnetwork.py",
+        "path_type": "hardlink",
+        "sha256": "ef44c24a121e44eff3c462d7852e774dcac4c9b1a9926b75ac0c41759db09f8e",
+        "sha256_in_prefix": "ef44c24a121e44eff3c462d7852e774dcac4c9b1a9926b75ac0c41759db09f8e",
+        "size_in_bytes": 1799
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtnetworkauth.py",
+        "path_type": "hardlink",
+        "sha256": "a8e6c910fd8753b3f379bc76f53aa237ae2dc9f0001ad91a7a713e87aa7a35d5",
+        "sha256_in_prefix": "a8e6c910fd8753b3f379bc76f53aa237ae2dc9f0001ad91a7a713e87aa7a35d5",
+        "size_in_bytes": 592
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtopengl.py",
+        "path_type": "hardlink",
+        "sha256": "50869ccd34b7661271b98265e935b3fcb68e7186e2f728f202a3818f231d6014",
+        "sha256_in_prefix": "50869ccd34b7661271b98265e935b3fcb68e7186e2f728f202a3818f231d6014",
+        "size_in_bytes": 1011
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtopenglwidgets.py",
+        "path_type": "hardlink",
+        "sha256": "109afc0e7c6f39ba868e02c8863f99456fb197128e168d3c8e4b5cc6c1224b9d",
+        "sha256_in_prefix": "109afc0e7c6f39ba868e02c8863f99456fb197128e168d3c8e4b5cc6c1224b9d",
+        "size_in_bytes": 297
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtpdf.py",
+        "path_type": "hardlink",
+        "sha256": "cedf3814fe677ea382d8499a547125439a20d834c95527f9550d446edec619a2",
+        "sha256_in_prefix": "cedf3814fe677ea382d8499a547125439a20d834c95527f9550d446edec619a2",
+        "size_in_bytes": 244
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtpdfwidgets.py",
+        "path_type": "hardlink",
+        "sha256": "65923d2232837c2e461d3b6cd65e2e10d145331cb8ea8781929bf1ba28d2ef0d",
+        "sha256_in_prefix": "65923d2232837c2e461d3b6cd65e2e10d145331cb8ea8781929bf1ba28d2ef0d",
+        "size_in_bytes": 194
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtpositioning.py",
+        "path_type": "hardlink",
+        "sha256": "a0fc8b856111f359664b147b9023226a5bfd787bef8e75a268127871004d888a",
+        "sha256_in_prefix": "a0fc8b856111f359664b147b9023226a5bfd787bef8e75a268127871004d888a",
+        "size_in_bytes": 1399
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtprintsupport.py",
+        "path_type": "hardlink",
+        "sha256": "1d6b9b8838865cb33676dbcf63db216f44adc56c4093ddccd137a633b414ade8",
+        "sha256_in_prefix": "1d6b9b8838865cb33676dbcf63db216f44adc56c4093ddccd137a633b414ade8",
+        "size_in_bytes": 1154
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtpurchasing.py",
+        "path_type": "hardlink",
+        "sha256": "fa31ea8d777c2494ae51734fae5927d39431b98169b2ecbfb0f56e1da47eda24",
+        "sha256_in_prefix": "fa31ea8d777c2494ae51734fae5927d39431b98169b2ecbfb0f56e1da47eda24",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtqml.py",
+        "path_type": "hardlink",
+        "sha256": "17bc077bce73ec3763b84498f3628a682e182a786fac13db99ef5c558f4a8d64",
+        "sha256_in_prefix": "17bc077bce73ec3763b84498f3628a682e182a786fac13db99ef5c558f4a8d64",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtquick.py",
+        "path_type": "hardlink",
+        "sha256": "eb1b66ea6468fa25728081b6b4dad3f4be2c9a2c66d72c1d7b7edd13ec9e2368",
+        "sha256_in_prefix": "eb1b66ea6468fa25728081b6b4dad3f4be2c9a2c66d72c1d7b7edd13ec9e2368",
+        "size_in_bytes": 2053
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtquick3d.py",
+        "path_type": "hardlink",
+        "sha256": "586d6253cdfdc5fa9ccf10073f3727d28bd223f02c5e2a0a812a07a4b2ab398f",
+        "sha256_in_prefix": "586d6253cdfdc5fa9ccf10073f3727d28bd223f02c5e2a0a812a07a4b2ab398f",
+        "size_in_bytes": 277
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtquickcontrols2.py",
+        "path_type": "hardlink",
+        "sha256": "b78ddb017e6c66228ada3da63989e643fa7280b5b22088bd43a0534f201c25a2",
+        "sha256_in_prefix": "b78ddb017e6c66228ada3da63989e643fa7280b5b22088bd43a0534f201c25a2",
+        "size_in_bytes": 217
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtquickwidgets.py",
+        "path_type": "hardlink",
+        "sha256": "8ebc42dee869ffa11fd00eec50361dc151233e047bf281c159eb8cde2c2f33b3",
+        "sha256_in_prefix": "8ebc42dee869ffa11fd00eec50361dc151233e047bf281c159eb8cde2c2f33b3",
+        "size_in_bytes": 164
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtremoteobjects.py",
+        "path_type": "hardlink",
+        "sha256": "786a1e80acd23f408d01e39df0f14da63e8af0f2fe911af9f4dc580ee4e430ee",
+        "sha256_in_prefix": "786a1e80acd23f408d01e39df0f14da63e8af0f2fe911af9f4dc580ee4e430ee",
+        "size_in_bytes": 478
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtscxml.py",
+        "path_type": "hardlink",
+        "sha256": "51c970c7931ba9a02a61156ffb94b5f78edf1dab2c13af92b34e7f40a7707f86",
+        "sha256_in_prefix": "51c970c7931ba9a02a61156ffb94b5f78edf1dab2c13af92b34e7f40a7707f86",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtsensors.py",
+        "path_type": "hardlink",
+        "sha256": "5d7e761b16acba91ab815f46ab4a63b4c34ad2325feeb4271185b0c9c9274e15",
+        "sha256_in_prefix": "5d7e761b16acba91ab815f46ab4a63b4c34ad2325feeb4271185b0c9c9274e15",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtserialport.py",
+        "path_type": "hardlink",
+        "sha256": "3ee87341f4f32e3714d01d25ed3a808ef174fc6924a73f7adceae9bc5bace1bc",
+        "sha256_in_prefix": "3ee87341f4f32e3714d01d25ed3a808ef174fc6924a73f7adceae9bc5bace1bc",
+        "size_in_bytes": 334
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtsql.py",
+        "path_type": "hardlink",
+        "sha256": "95a4fe10cd52d9ed91d7baaf77eb080ceccb368f60a6c67d94d0971d53a19b1a",
+        "sha256_in_prefix": "95a4fe10cd52d9ed91d7baaf77eb080ceccb368f60a6c67d94d0971d53a19b1a",
+        "size_in_bytes": 2443
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtstatemachine.py",
+        "path_type": "hardlink",
+        "sha256": "bc34083921088221e1fea47d7bd26e95767287568a7553d94e18bfbbcd4c27d5",
+        "sha256_in_prefix": "bc34083921088221e1fea47d7bd26e95767287568a7553d94e18bfbbcd4c27d5",
+        "size_in_bytes": 644
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtsvg.py",
+        "path_type": "hardlink",
+        "sha256": "53abd218d8701446dc67a428c1f8bbe0279415d61b71fd95f041849cf66ac3b7",
+        "sha256_in_prefix": "53abd218d8701446dc67a428c1f8bbe0279415d61b71fd95f041849cf66ac3b7",
+        "size_in_bytes": 364
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtsvgwidgets.py",
+        "path_type": "hardlink",
+        "sha256": "b65a2d8d9a567de5dd70ab7f7768e1e1867317e1c0963dd19ba290b15ba6657b",
+        "sha256_in_prefix": "b65a2d8d9a567de5dd70ab7f7768e1e1867317e1c0963dd19ba290b15ba6657b",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qttest.py",
+        "path_type": "hardlink",
+        "sha256": "1edb0c1fbd445de2fd29c2729bdb0d8e7069f824b6ce15497bf3ee02d07bef35",
+        "sha256_in_prefix": "1edb0c1fbd445de2fd29c2729bdb0d8e7069f824b6ce15497bf3ee02d07bef35",
+        "size_in_bytes": 835
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qttexttospeech.py",
+        "path_type": "hardlink",
+        "sha256": "ebf1ac8c07714ea93dbd7f05922e5994fca2d611ce4349a417c57decf3cb9d58",
+        "sha256_in_prefix": "ebf1ac8c07714ea93dbd7f05922e5994fca2d611ce4349a417c57decf3cb9d58",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtuitools.py",
+        "path_type": "hardlink",
+        "sha256": "7cc95d7e3ad636cd014eaab3874fcaaa23d918f63595af469789b9de843c1b4c",
+        "sha256_in_prefix": "7cc95d7e3ad636cd014eaab3874fcaaa23d918f63595af469789b9de843c1b4c",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwebchannel.py",
+        "path_type": "hardlink",
+        "sha256": "a80d100bcca552ca49eb1ed7751055ab32323d7643a5fb0a22305b13860c19a2",
+        "sha256_in_prefix": "a80d100bcca552ca49eb1ed7751055ab32323d7643a5fb0a22305b13860c19a2",
+        "size_in_bytes": 220
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwebenginecore.py",
+        "path_type": "hardlink",
+        "sha256": "d6d7c057ddd5328507da9e60866d51d15f33cb1bd4e113b53865c97a95040ac1",
+        "sha256_in_prefix": "d6d7c057ddd5328507da9e60866d51d15f33cb1bd4e113b53865c97a95040ac1",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwebenginequick.py",
+        "path_type": "hardlink",
+        "sha256": "752f13dc0dad2c76044eb2bc012c9a47d5b2324a1a67dfa58eaf3a0febecd308",
+        "sha256_in_prefix": "752f13dc0dad2c76044eb2bc012c9a47d5b2324a1a67dfa58eaf3a0febecd308",
+        "size_in_bytes": 398
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwebenginewidgets.py",
+        "path_type": "hardlink",
+        "sha256": "89a450fea4fffd7dfe909cd39011c4cac4b669b71c7074c57defb22e5a5d399e",
+        "sha256_in_prefix": "89a450fea4fffd7dfe909cd39011c4cac4b669b71c7074c57defb22e5a5d399e",
+        "size_in_bytes": 795
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwebsockets.py",
+        "path_type": "hardlink",
+        "sha256": "58ffd5a7dda4b474b049e8bd4865d6422fcae8fdbe32cda017e14da94d3f751f",
+        "sha256_in_prefix": "58ffd5a7dda4b474b049e8bd4865d6422fcae8fdbe32cda017e14da94d3f751f",
+        "size_in_bytes": 377
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwidgets.py",
+        "path_type": "hardlink",
+        "sha256": "fbf0d0d9d9694462b341e1692fbe46c58a1d11b46e45944312ede5fb0b2043c2",
+        "sha256_in_prefix": "fbf0d0d9d9694462b341e1692fbe46c58a1d11b46e45944312ede5fb0b2043c2",
+        "size_in_bytes": 9827
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtwinextras.py",
+        "path_type": "hardlink",
+        "sha256": "50ecb9834cbfb54255f4d20c1de55fe236e998a2a67993bc167b5c6241ccaa19",
+        "sha256_in_prefix": "50ecb9834cbfb54255f4d20c1de55fe236e998a2a67993bc167b5c6241ccaa19",
+        "size_in_bytes": 1176
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtx11extras.py",
+        "path_type": "hardlink",
+        "sha256": "6bf73cb2c492de8ed8348d85eb8dce820e9aebd48fd3a22faaf74374f6375748",
+        "sha256_in_prefix": "6bf73cb2c492de8ed8348d85eb8dce820e9aebd48fd3a22faaf74374f6375748",
+        "size_in_bytes": 245
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtxml.py",
+        "path_type": "hardlink",
+        "sha256": "a17404071b914434f2af52ee84cf869bafdbaf3f71466fa603bb289934e9acc0",
+        "sha256_in_prefix": "a17404071b914434f2af52ee84cf869bafdbaf3f71466fa603bb289934e9acc0",
+        "size_in_bytes": 835
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_qtxmlpatterns.py",
+        "path_type": "hardlink",
+        "sha256": "f346f18ee28dd3f4b4c82b6348e7d9774ac2781bfd17bce16e2d3c5e1de3d2f3",
+        "sha256_in_prefix": "f346f18ee28dd3f4b4c82b6348e7d9774ac2781bfd17bce16e2d3c5e1de3d2f3",
+        "size_in_bytes": 1120
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_shiboken.py",
+        "path_type": "hardlink",
+        "sha256": "f0cf407230e16fef8beffd12ac1a87a5f08ec1af757aa76853be5c3c5b8f083b",
+        "sha256_in_prefix": "f0cf407230e16fef8beffd12ac1a87a5f08ec1af757aa76853be5c3c5b8f083b",
+        "size_in_bytes": 340
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_sip.py",
+        "path_type": "hardlink",
+        "sha256": "4c76fef3e9e9571d2455fbbf66a0fadfba2c935abf69eecc90a5ddf2789029df",
+        "sha256_in_prefix": "4c76fef3e9e9571d2455fbbf66a0fadfba2c935abf69eecc90a5ddf2789029df",
+        "size_in_bytes": 794
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/test_uic.py",
+        "path_type": "hardlink",
+        "sha256": "71e59cd390ab3a61d13710649c849e7bf5d5e28c47e0d9ebb75ca6b59011dc58",
+        "sha256_in_prefix": "71e59cd390ab3a61d13710649c849e7bf5d5e28c47e0d9ebb75ca6b59011dc58",
+        "size_in_bytes": 3654
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/tests/utils.py",
+        "path_type": "hardlink",
+        "sha256": "8a46292fffcda59cc87bc33808f0949e3630d48f386412b3e88ce02865e7d5ed",
+        "sha256_in_prefix": "8a46292fffcda59cc87bc33808f0949e3630d48f386412b3e88ce02865e7d5ed",
+        "size_in_bytes": 200
+      },
+      {
+        "_path": "Lib/site-packages/qtpy/uic.py",
+        "path_type": "hardlink",
+        "sha256": "f1cf57a89de9c56e5367f45a1001d999b3ba234be3b1bf51921a5710591dc3dd",
+        "sha256_in_prefix": "f1cf57a89de9c56e5367f45a1001d999b3ba234be3b1bf51921a5710591dc3dd",
+        "size_in_bytes": 11647
+      },
+      {
+        "_path": "Scripts/qtpy-script.py",
+        "path_type": "hardlink",
+        "sha256": "f89a5b9523dc1eb55be2c707e4f98d1ae64e0ec42b1ab4dc1bed983a2956d2ec",
+        "sha256_in_prefix": "f89a5b9523dc1eb55be2c707e4f98d1ae64e0ec42b1ab4dc1bed983a2956d2ec",
+        "size_in_bytes": 207
+      },
+      {
+        "_path": "Scripts/qtpy.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "qtpy==2.4.1=py38haa95532_0",
+  "sha256": "cb8aa7e2178bab33763f2017530792b58881c60b661a28c1fd2217214605bc24",
+  "size": 129677,
+  "subdir": "win-64",
+  "timestamp": 1700145191000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/qtpy-2.4.1-py38haa95532_0.conda",
+  "version": "2.4.1"
+}

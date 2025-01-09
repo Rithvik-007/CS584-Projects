@@ -1,0 +1,11 @@
+prefix=D:/GMU Courses/CS-584/Assignments/HW2/myenv/Library
+exec_prefix=D:/GMU Courses/CS-584/Assignments/HW2/myenv/Library
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libbrotlicommon
+URL: https://github.com/google/brotli
+Description: Brotli common dictionary library
+Version: 1.0.9
+Libs: -L${libdir} -lbrotlicommon
+Cflags: -I${includedir}
